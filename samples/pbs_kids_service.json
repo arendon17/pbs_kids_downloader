@@ -1,0 +1,2313 @@
+{
+    "variables": {},
+    "collections": {
+        "kids-livestream": {
+            "content": [
+                {
+                    "URI": "https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8",
+                    "content_type": "livestream",
+                    "drm": {
+                        "non_drm_url": "https://urs.pbs.org/redirect/a87f70906f224dffbc247bfba983d90e/",
+                        "hls_uri": "https://urs.pbs.org/redirect/2ed14c04a8c84ef595c72f5262591e92/",
+                        "fairplay_certificate": "https://static.drm.pbs.org/fairplay-cert",
+                        "fairplay_license": "https://proxy.drm.pbs.org/license/fairplay/est-hls",
+                        "dash_uri": "https://urs.pbs.org/redirect/ef0dca5678d04af9b5829f01a0db34b7/",
+                        "widevine_license": "https://proxy.drm.pbs.org/license/widevine/est-dash",
+                        "playready_license": "https://proxy.drm.pbs.org/license/playready/est-dash"
+                    }
+                }
+            ]
+        },
+        "kids-show-spotlight": {
+            "content": [
+                {
+                    "content_type": "program",
+                    "nola_root": "DKYH",
+                    "slug": "donkey-hodie",
+                    "title": "Donkey Hodie",
+                    "URI": "https://content.services.pbs.org/v2/kidspbsorg/programs/donkey-hodie/",
+                    "background_color": "#30973D",
+                    "images": {
+                        "white_logo": null,
+                        "black_logo": null,
+                        "poster_2x3": "https://image.pbs.org/contentchannels/l4mhMfi-show-poster2x3-EfxsEG9.png",
+                        "showcase": "https://image.pbs.org/contentchannels/Ir3xDkW-show-showcase-zVWTdJ6.jpg",
+                        "mezzanine_16x9": "https://image.pbs.org/contentchannels/U7x9DFx-show-mezzanine16x9-iWYP6m0.png",
+                        "logo": "https://image.pbs.org/pbs-kids/global/show-icons/circle-transparent/200x200Donkey-Hodie-clearCircle.png",
+                        "background": "https://image.pbs.org/pbs-kids/video-app/ott-show-backgrounds/1920x602-AppleTV-Background-DonkeyHodie4.png",
+                        "banner": "https://image.pbs.org/contentchannels/svFbUZc-show-banner-PgcqrA3.png",
+                        "stack": null,
+                        "color_logo": null
+                    },
+                    "images_resized": {
+                        "logo": [
+                            {
+                                "width": 88,
+                                "height": 88,
+                                "url": "https://cms-tc.pbskids.org/global/show-icons/circle-transparent/_88x88_crop_center-center_none/200x200Donkey-Hodie-clearCircle.png"
+                            }
+                        ],
+                        "logo_square": [
+                            {
+                                "width": 100,
+                                "height": 100,
+                                "url": "https://cms-tc.pbskids.org/global/show-icons/square-transparent/_100x100_crop_center-center_none/200x200Donkey-Hodie_square.png"
+                            }
+                        ]
+                    },
+                    "websiteUrl": "https://pbskids.org/donkeyhodie",
+                    "ages": "2-4",
+                    "google_analytics_id": "",
+                    "shopUrl": "",
+                    "parentsUrl": "",
+                    "videoStores": [],
+                    "sponsors": []
+                }
+            ],
+            "title": "Show Spotlight"
+        },
+        "kids-promo": {
+            "title": "Weekly Promo",
+            "content": [
+                {
+                    "air_date": "2022-09-28T04:00:00-04:00",
+                    "content_type": "video",
+                    "description": "Meet Rosie's grandma Abuela!",
+                    "duration": 15,
+                    "encore_date": "2022-11-16T08:46:54-05:00",
+                    "expire_date": null,
+                    "id": "3072369323",
+                    "images": {
+                        "mezzanine": "https://image.pbs.org/video-assets/qJRwsim-asset-kids-mezzanine1-16x9-D1fbhXS.jpg"
+                    },
+                    "program": {
+                        "content_type": "program",
+                        "slug": "rosies-rules",
+                        "title": "Rosie's Rules",
+                        "URI": "https://content.services.pbs.org/v2/kidspbsorg/programs/rosies-rules/"
+                    },
+                    "short_description": null,
+                    "title": "Meet Abuela!",
+                    "URI": "https://urs.pbs.org/redirect/95f596b12eef43eaa759e236abae0401/",
+                    "is_special": false,
+                    "is_movie": false,
+                    "video_type": "Clip",
+                    "mp4": "https://urs.pbs.org/redirect/81b3a0755e6f4821a550ec2ad91d19fb/",
+                    "drm": {
+                        "hls_uri": null,
+                        "hls_mm_profile": null,
+                        "fairplay_certificate": null,
+                        "fairplay_license": null,
+                        "dash_uri": null,
+                        "dash_mm_profile": null,
+                        "widevine_license": null,
+                        "playready_license": null
+                    },
+                    "closedCaptions": [
+                        {
+                            "URI": "https://kids.video.cdn.pbs.org/captions/rosies-rules/07cb3dd5-d1bd-416c-955e-251448885163/captions/4puwDa_caption_en.sami",
+                            "language": "en",
+                            "format": "Caption-SAMI"
+                        },
+                        {
+                            "URI": "https://kids.video.cdn.pbs.org/captions/rosies-rules/07cb3dd5-d1bd-416c-955e-251448885163/captions/ryvn8O_caption_en.dfxp",
+                            "language": "en",
+                            "format": "DFXP"
+                        },
+                        {
+                            "URI": "https://kids.video.cdn.pbs.org/captions/rosies-rules/07cb3dd5-d1bd-416c-955e-251448885163/captions/zVLGcI_caption_en.srt",
+                            "language": "en",
+                            "format": "SRT"
+                        },
+                        {
+                            "URI": "https://kids.video.cdn.pbs.org/captions/rosies-rules/07cb3dd5-d1bd-416c-955e-251448885163/captions/u6cp3Y_caption_en.vtt",
+                            "language": "en",
+                            "format": "WebVTT"
+                        }
+                    ],
+                    "closedCaptionsMultiLanguage": [
+                        {
+                            "URI": "https://kids.video.cdn.pbs.org/captions/rosies-rules/07cb3dd5-d1bd-416c-955e-251448885163/captions/4puwDa_caption_en.sami",
+                            "language": "en",
+                            "format": "Caption-SAMI",
+                            "primary": true
+                        },
+                        {
+                            "URI": "https://kids.video.cdn.pbs.org/captions/rosies-rules/07cb3dd5-d1bd-416c-955e-251448885163/captions/ryvn8O_caption_en.dfxp",
+                            "language": "en",
+                            "format": "DFXP",
+                            "primary": true
+                        },
+                        {
+                            "URI": "https://kids.video.cdn.pbs.org/captions/rosies-rules/07cb3dd5-d1bd-416c-955e-251448885163/captions/zVLGcI_caption_en.srt",
+                            "language": "en",
+                            "format": "SRT",
+                            "primary": true
+                        },
+                        {
+                            "URI": "https://kids.video.cdn.pbs.org/captions/rosies-rules/07cb3dd5-d1bd-416c-955e-251448885163/captions/u6cp3Y_caption_en.vtt",
+                            "language": "en",
+                            "format": "WebVTT",
+                            "primary": true
+                        }
+                    ]
+                }
+            ]
+        },
+        "kids-programs-tier-1": {
+            "title": "Programs Tier 1",
+            "content": [
+                {
+                    "content_type": "program",
+                    "nola_root": "PBS Kids Seasonal Spotlight",
+                    "slug": "celebrate-native-american-heritage-month",
+                    "title": "Celebrate Native American Heritage Month!",
+                    "URI": "https://content.services.pbs.org/v2/kidspbsorg/programs/celebrate-native-american-heritage-month/",
+                    "background_color": "#AD5613",
+                    "images": {
+                        "white_logo": null,
+                        "black_logo": null,
+                        "poster_2x3": "https://image.pbs.org/pbs-kids/global/NAHM_Poster_400by600.jpg",
+                        "showcase": "https://image.pbs.org/pbs-kids/video-app/ott-spotlight-collection-showcase-images/NAHM_Showcase_514by188.jpg",
+                        "mezzanine_16x9": "https://image.pbs.org/pbs-kids/global/NAHM_Mezzanine_905by510.jpg",
+                        "logo": "https://image.pbs.org/pbs-kids/global/NAHM_Icon.png",
+                        "background": "https://image.pbs.org/pbs-kids/video-app/ott-spotlight-collection-backgrounds/NAHM_AppleTV_1920by602.png",
+                        "banner": "https://image.pbs.org/pbs-kids/video-app/ott-spotlight-collection-banner-images/NAHM_Banner_1920by486.jpg",
+                        "stack": null,
+                        "color_logo": null
+                    },
+                    "images_resized": {
+                        "logo": [
+                            {
+                                "width": 88,
+                                "height": 88,
+                                "url": "https://cms-tc.pbskids.org/global/_88x88_crop_center-center_none/NAHM_Icon.png"
+                            }
+                        ],
+                        "logo_square": []
+                    },
+                    "websiteUrl": ""
+                },
+                {
+                    "content_type": "program",
+                    "nola_root": "AWAY",
+                    "slug": "almas-way",
+                    "title": "Alma's Way",
+                    "URI": "https://content.services.pbs.org/v2/kidspbsorg/programs/almas-way/",
+                    "background_color": "#8E288D",
+                    "images": {
+                        "white_logo": null,
+                        "black_logo": null,
+                        "poster_2x3": "https://image.pbs.org/contentchannels/DScFe6s-show-poster2x3-3DhzYc1.png",
+                        "showcase": "https://image.pbs.org/contentchannels/RVTlKWd-show-showcase-jDLdEBR.png",
+                        "mezzanine_16x9": "https://image.pbs.org/contentchannels/L5QGzUo-show-mezzanine16x9-lFbjlbN.png",
+                        "logo": "https://image.pbs.org/pbs-kids/global/show-icons/circle-transparent/200x200-Almas-Way-clear-circle.png",
+                        "background": "https://image.pbs.org/pbs-kids/video-app/ott-show-backgrounds/1920x602-Almas-Way-OTT-Gradient-v4.png",
+                        "banner": "https://image.pbs.org/contentchannels/ZeTlLL7-show-banner-6RJkvz1.png",
+                        "stack": null,
+                        "color_logo": null
+                    },
+                    "images_resized": {
+                        "logo": [
+                            {
+                                "width": 88,
+                                "height": 88,
+                                "url": "https://cms-tc.pbskids.org/global/show-icons/circle-transparent/_88x88_crop_center-center_none/200x200-Almas-Way-clear-circle.png"
+                            }
+                        ],
+                        "logo_square": [
+                            {
+                                "width": 100,
+                                "height": 100,
+                                "url": "https://cms-tc.pbskids.org/global/show-icons/square-transparent/_100x100_crop_center-center_none/200x200-Almas-Square.png"
+                            }
+                        ]
+                    },
+                    "websiteUrl": "https://pbskids.org/almasway",
+                    "ages": "4-6",
+                    "google_analytics_id": "UA-208853372-1",
+                    "shopUrl": "",
+                    "parentsUrl": "",
+                    "videoStores": [],
+                    "sponsors": []
+                },
+                {
+                    "content_type": "program",
+                    "nola_root": "DTIG",
+                    "slug": "daniel-tigers-neighborhood",
+                    "title": "Daniel Tiger's Neighborhood",
+                    "URI": "https://content.services.pbs.org/v2/kidspbsorg/programs/daniel-tigers-neighborhood/",
+                    "background_color": "#38b4bc",
+                    "images": {
+                        "white_logo": null,
+                        "black_logo": null,
+                        "poster_2x3": "https://image.pbs.org/contentchannels/1947/iwiDb5PpZwkLnmzq2Jayw.jpg",
+                        "showcase": "https://image.pbs.org/contentchannels/1947/WI6gB1lSC5Ax6nrp3rLeg.jpg",
+                        "mezzanine_16x9": "https://image.pbs.org/contentchannels/1947/nZ560fDkOmANPA0L0MGwQ.jpg",
+                        "logo": "https://image.pbs.org/pbs-kids/global/show-icons/circle-transparent/200x200_daniel.png",
+                        "background": "https://image.pbs.org/pbs-kids/video-app/ott-show-backgrounds/1920x602_Daniel_AppleTV_Background.png",
+                        "banner": "https://image.pbs.org/contentchannels/1947/AFSm0OJBDM7mNAjaicdwLA.jpg",
+                        "stack": null,
+                        "color_logo": null
+                    },
+                    "images_resized": {
+                        "logo": [
+                            {
+                                "width": 88,
+                                "height": 88,
+                                "url": "https://cms-tc.pbskids.org/global/show-icons/circle-transparent/_88x88_crop_center-center_none/200x200_daniel.png"
+                            }
+                        ],
+                        "logo_square": [
+                            {
+                                "width": 100,
+                                "height": 100,
+                                "url": "https://cms-tc.pbskids.org/global/show-icons/square-transparent/_100x100_crop_center-center_none/400x400_daniel.png"
+                            }
+                        ]
+                    },
+                    "websiteUrl": "https://pbskids.org/daniel/",
+                    "ages": "2-4",
+                    "google_analytics_id": "UA-30580064-2",
+                    "shopUrl": "https://shop.pbskids.org/daniel-tiger-s-neighborhood?utm_source=PBS_kids&utm_medium=brandsite&utm_content=ShopButton&utm_campaign=daniel_091914",
+                    "parentsUrl": "",
+                    "videoStores": [
+                        {
+                            "store": "amazon-video",
+                            "url": "https://www.amazon.com/gp/product/B009C47CM4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B009C47CM4&linkCode=as2&tag=p05a2-20&linkId=JCEDO4HMLFWH3MJV"
+                        },
+                        {
+                            "store": "itunes",
+                            "url": "https://itunes.apple.com/us/tv-season/daniel-tigers-neighborhood/id805758951?uo=4&at=11l3Sf&ct=DanielTigerVIDEOS"
+                        },
+                        {
+                            "store": "google-play",
+                            "url": "https://play.google.com/store/tv/show/Daniel_Tiger_s_Neighborhood?id=CX07rJps5vs&hl=en"
+                        }
+                    ],
+                    "sponsors": [
+                        {
+                            "image_url": "https://cms-tc.pbskids.org/sponsors/vroom/600x600_Vroom_v2.png",
+                            "link_url": "https://www.vroom.org/?utm_source=Daniel%20Tiger&utm_medium=website%20logo",
+                            "title": "Vroom",
+                            "guid": "ac600828-2907-11e6-b1b4-0ebf5a782fad"
+                        }
+                    ]
+                },
+                {
+                    "content_type": "program",
+                    "nola_root": "RORU",
+                    "slug": "rosies-rules",
+                    "title": "Rosie's Rules",
+                    "URI": "https://content.services.pbs.org/v2/kidspbsorg/programs/rosies-rules/",
+                    "background_color": "#61CDBD",
+                    "images": {
+                        "white_logo": null,
+                        "black_logo": null,
+                        "poster_2x3": "https://image.pbs.org/contentchannels/ssPu5iS-show-poster2x3-n7C40XH.png",
+                        "showcase": "https://image.pbs.org/contentchannels/mCNk016-show-showcase-GYJzWBO.png",
+                        "mezzanine_16x9": "https://image.pbs.org/contentchannels/WR4N75g-show-mezzanine16x9-97AzsPz.png",
+                        "logo": "https://image.pbs.org/pbs-kids/global/show-icons/circle-transparent/200x200-clear-circle_RosieRules.png",
+                        "background": "https://image.pbs.org/pbs-kids/video-app/ott-show-backgrounds/1920x602-OTT-Gradient_RosieUpdate2.png",
+                        "banner": "https://image.pbs.org/contentchannels/cvtiSDW-show-banner-2pB2sBZ.png",
+                        "stack": null,
+                        "color_logo": null
+                    },
+                    "images_resized": {
+                        "logo": [
+                            {
+                                "width": 88,
+                                "height": 88,
+                                "url": "https://cms-tc.pbskids.org/global/show-icons/circle-transparent/_88x88_crop_center-center_none/200x200-clear-circle_RosieRules.png"
+                            }
+                        ],
+                        "logo_square": [
+                            {
+                                "width": 100,
+                                "height": 100,
+                                "url": "https://cms-tc.pbskids.org/global/show-icons/square-transparent/_100x100_crop_center-center_none/84x80_RosieRules.png"
+                            }
+                        ]
+                    },
+                    "websiteUrl": "https://pbskids.org/rosiesrules",
+                    "ages": "3-6",
+                    "google_analytics_id": "",
+                    "shopUrl": "",
+                    "parentsUrl": "",
+                    "videoStores": [],
+                    "sponsors": [
+                        {
+                            "image_url": "https://cms-tc.pbskids.org/sponsors/Target-Bulleyes-600px.png",
+                            "link_url": "https://corporate.target.com/corporate-responsibility/community",
+                            "title": "Target - Rosie's Rules",
+                            "guid": "b8e324a9-0b60-4de6-b113-c592ae658d1e"
+                        },
+                        {
+                            "image_url": "https://cms-tc.pbskids.org/sponsors/McCormick-600px.png",
+                            "link_url": "https://urldefense.com/v3/__https:/www.mccormick.com/its-gonna-be-great__;!!Ppj8HQ!KiIT4kkvw5mNdYnBvbHJB3DNm7ZS4noAr3bmxz4jroiz1GaJ4HlFsDZ-porPMc5aB6VVMRdJVFVbDWU0IufbqwE$",
+                            "title": "McCormick  - Rosie's Rules",
+                            "guid": "00b3b75e-92af-43d1-ba6d-d7b637b841a7"
+                        }
+                    ]
+                },
+                {
+                    "content_type": "program",
+                    "nola_root": "WILK",
+                    "slug": "wild-kratts",
+                    "title": "Wild Kratts",
+                    "URI": "https://content.services.pbs.org/v2/kidspbsorg/programs/wild-kratts/",
+                    "background_color": "#24482c",
+                    "images": {
+                        "white_logo": null,
+                        "black_logo": null,
+                        "poster_2x3": "https://image.pbs.org/contentchannels/865/z0R5cpzwnmrYnSmvOQKg.jpg",
+                        "showcase": "https://image.pbs.org/contentchannels/865/tXsrHKmrb50H5rJNYb6xQ.jpg",
+                        "mezzanine_16x9": "https://image.pbs.org/contentchannels/865/I6zPxmksJAAYOKHCeS98dQ.jpg",
+                        "logo": "https://image.pbs.org/pbs-kids/global/show-icons/circle-transparent/200x200_wildkratts.png",
+                        "background": "https://image.pbs.org/pbs-kids/video-app/ott-show-backgrounds/1920x602_Wildkratts_AppleTV_Background.png",
+                        "banner": "https://image.pbs.org/contentchannels/865/N0leG0LgvxbdMC1QI9wJQ.jpg",
+                        "stack": null,
+                        "color_logo": null
+                    },
+                    "images_resized": {
+                        "logo": [
+                            {
+                                "width": 88,
+                                "height": 88,
+                                "url": "https://cms-tc.pbskids.org/global/show-icons/circle-transparent/_88x88_crop_center-center_none/200x200_wildkratts.png"
+                            }
+                        ],
+                        "logo_square": [
+                            {
+                                "width": 100,
+                                "height": 100,
+                                "url": "https://cms-tc.pbskids.org/global/show-icons/square-transparent/_100x100_crop_center-center_none/wild-kratts.png"
+                            }
+                        ]
+                    },
+                    "websiteUrl": "https://pbskids.org/wildkratts/",
+                    "ages": "4-8",
+                    "google_analytics_id": "UA-18413296-2",
+                    "shopUrl": "https://shop.pbskids.org/wild-kratts?utm_source=PBS_kids&utm_medium=brandsite&utm_content=ShopButton&utm_campaign=wildkratts_091914",
+                    "parentsUrl": "",
+                    "videoStores": [
+                        {
+                            "store": "itunes",
+                            "url": "https://itunes.apple.com/us/tv-season/wild-kratts-vol.-5/id845155546?uo=4&at=11l3Sf&ct=WildKrattsVIDEOS"
+                        },
+                        {
+                            "store": "amazon-video",
+                            "url": "https://www.amazon.com/gp/product/B008LRKZGS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B008LRKZGS&linkCode=as2&tag=p05a2-20&linkId=AL6ZQO5V7VMI5PCV"
+                        },
+                        {
+                            "store": "google-play",
+                            "url": "https://play.google.com/store/tv/show/Wild_Kratts?id=rv3_vNnETXg&hl=en"
+                        }
+                    ],
+                    "sponsors": [
+                        {
+                            "image_url": "https://cms-tc.pbskids.org/sponsors/BullseyeNoR_19_rgb_Red_600x600px.png",
+                            "link_url": "https://corporate.target.com/corporate-responsibility/community",
+                            "title": "Target",
+                            "guid": "907ee5ff-5263-45dd-a00b-8148d7ffff7d"
+                        },
+                        {
+                            "image_url": "https://cms-tc.pbskids.org/sponsors/Adventure-Academy-Logo.png",
+                            "link_url": "https://www.adventureacademy.com/?src_tag=dis:wildkratts",
+                            "title": "Adventure Academy - Wild Kratts",
+                            "guid": "e663745b-1cf2-42ec-97e6-adcde762d363"
+                        }
+                    ]
+                },
+                {
+                    "content_type": "program",
+                    "nola_root": "ODDS",
+                    "slug": "odd-squad",
+                    "title": "Odd Squad",
+                    "URI": "https://content.services.pbs.org/v2/kidspbsorg/programs/odd-squad/",
+                    "background_color": "#101010",
+                    "images": {
+                        "white_logo": "https://image.pbs.org/contentchannels/2748/dcyZvi5jkJmyuJMBjL9Ugg.jpg",
+                        "black_logo": null,
+                        "poster_2x3": "https://image.pbs.org/contentchannels/HILnZlK-show-poster2x3-9xPZdER.png",
+                        "showcase": "https://image.pbs.org/contentchannels/OHtoG8b-show-showcase-Rukzx8m.jpg",
+                        "mezzanine_16x9": "https://image.pbs.org/contentchannels/eXnjxOb-show-mezzanine16x9-8cFwfHA.jpg",
+                        "logo": "https://image.pbs.org/pbs-kids/global/show-icons/circle-transparent/200x200_oddsquad_transparent.png",
+                        "background": "https://image.pbs.org/pbs-kids/video-app/ott-show-backgrounds/1920x608_AppleTV-Background-update_Odd-Squad-1.png",
+                        "banner": "https://image.pbs.org/contentchannels/Le4pdgN-show-banner-3iW0c18.png",
+                        "stack": null,
+                        "color_logo": null
+                    },
+                    "images_resized": {
+                        "logo": [
+                            {
+                                "width": 88,
+                                "height": 88,
+                                "url": "https://cms-tc.pbskids.org/global/show-icons/circle-transparent/_88x88_crop_center-center_none/200x200_oddsquad_transparent.png"
+                            }
+                        ],
+                        "logo_square": [
+                            {
+                                "width": 100,
+                                "height": 100,
+                                "url": "https://cms-tc.pbskids.org/global/show-icons/square-transparent/_100x100_crop_center-center_none/200x200_oddsquad_square.png"
+                            }
+                        ]
+                    },
+                    "websiteUrl": "https://pbskids.org/oddsquad",
+                    "ages": "5-8",
+                    "google_analytics_id": "UA-50934115-2",
+                    "shopUrl": "https://shop.pbskids.org/odd-squad?utm_source=PBS_kids&utm_medium=brandsite&utm_content=ShopButton&utm_campaign=oddsquad_010615",
+                    "parentsUrl": "",
+                    "videoStores": [],
+                    "sponsors": [
+                        {
+                            "image_url": "https://cms-tc.pbskids.org/sponsors/ABCmouse_com_noTag_RGB_600.png",
+                            "link_url": "https://www.abcmouse.com/",
+                            "title": "ABC Mouse - Odd Squad",
+                            "guid": "ed3c7e9d-d8da-4612-9ce4-4b23d95985e0"
+                        }
+                    ]
+                },
+                {
+                    "content_type": "program",
+                    "nola_root": "PIPE",
+                    "slug": "pinkalicious-and-peterrific",
+                    "title": "Pinkalicious and Peterrific",
+                    "URI": "https://content.services.pbs.org/v2/kidspbsorg/programs/pinkalicious-and-peterrific/",
+                    "background_color": "#dc5da3",
+                    "images": {
+                        "white_logo": null,
+                        "black_logo": null,
+                        "poster_2x3": "https://image.pbs.org/contentchannels/BJR1TOn-show-poster2x3-r3s46M9.jpg",
+                        "showcase": "https://image.pbs.org/contentchannels/CB9AU8n-show-showcase-G6WBpN9.jpg",
+                        "mezzanine_16x9": "https://image.pbs.org/contentchannels/u8fuRCK-show-mezzanine16x9-ywTWKEo.jpg",
+                        "logo": "https://image.pbs.org/pbs-kids/global/show-icons/circle-transparent/200x200_pinkalicious_circle_v2.png",
+                        "background": "https://image.pbs.org/pbs-kids/video-app/ott-show-backgrounds/1920x602_Pinkalious_AppleTV_Background.png",
+                        "banner": "https://image.pbs.org/contentchannels/gbu9FIp-show-banner-G8kcT8t.jpg",
+                        "stack": null,
+                        "color_logo": null
+                    },
+                    "images_resized": {
+                        "logo": [
+                            {
+                                "width": 88,
+                                "height": 88,
+                                "url": "https://cms-tc.pbskids.org/global/show-icons/circle-transparent/_88x88_crop_center-center_none/200x200_pinkalicious_circle_v2.png"
+                            }
+                        ],
+                        "logo_square": [
+                            {
+                                "width": 100,
+                                "height": 100,
+                                "url": "https://cms-tc.pbskids.org/global/show-icons/square-transparent/_100x100_crop_center-center_none/400x400_SquareIcon_Pinka.png"
+                            }
+                        ]
+                    },
+                    "websiteUrl": "https://pbskids.org/pinkalicious",
+                    "ages": "3-6",
+                    "google_analytics_id": "UA-101627795-2",
+                    "shopUrl": "https://shop.pbskids.org/",
+                    "parentsUrl": "",
+                    "videoStores": [],
+                    "sponsors": [
+                        {
+                            "image_url": "https://cms-tc.pbskids.org/sponsors/ikea_noto_black-600px.png",
+                            "link_url": "https://www.ikea.com/us/en/campaigns/safer-homes-pub06b8249f",
+                            "title": "IKEA - Pinkalicious",
+                            "guid": "939d8b4d-36b5-4bde-9b62-b40825c5ee23"
+                        },
+                        {
+                            "image_url": "https://cms-tc.pbskids.org/sponsors/KA_logo_clr_600height.png",
+                            "link_url": "https://kiddieacademy.com/?utm_source=pbs&utm_medium=bridge&utm_campaign=pbs&utm_content=dt",
+                            "title": "Kiddie Academy (Pinkalicious)",
+                            "guid": "9dcb4fdb-af9a-49d5-b69f-0dbaacfcd93d"
+                        }
+                    ]
+                },
+                {
+                    "content_type": "program",
+                    "nola_root": "CUGE",
+                    "slug": "curious-george",
+                    "title": "Curious George",
+                    "URI": "https://content.services.pbs.org/v2/kidspbsorg/programs/curious-george/",
+                    "background_color": "#24a2dd",
+                    "images": {
+                        "white_logo": null,
+                        "black_logo": null,
+                        "poster_2x3": "https://image.pbs.org/contentchannels/858/kAvVivCecNyD02RahSaAw.jpg",
+                        "showcase": "https://image.pbs.org/contentchannels/858/YDdtXbUs0U6WvZ2zdEdZQ.jpg",
+                        "mezzanine_16x9": "https://image.pbs.org/contentchannels/858/bv75LTAEA0vuaBrXj2ITg.jpg",
+                        "logo": "https://image.pbs.org/pbs-kids/global/show-icons/circle-transparent/200x200_curiousgeorge.png",
+                        "background": "https://image.pbs.org/pbs-kids/video-app/ott-show-backgrounds/1920x602_CuriousGeorge_AppleTV_Background.png",
+                        "banner": "https://image.pbs.org/contentchannels/858/W2VAb7e8v5DV0xoLGIWLUw.jpg",
+                        "stack": null,
+                        "color_logo": null
+                    },
+                    "images_resized": {
+                        "logo": [
+                            {
+                                "width": 88,
+                                "height": 88,
+                                "url": "https://cms-tc.pbskids.org/global/show-icons/circle-transparent/_88x88_crop_center-center_none/200x200_curiousgeorge.png"
+                            }
+                        ],
+                        "logo_square": [
+                            {
+                                "width": 100,
+                                "height": 100,
+                                "url": "https://cms-tc.pbskids.org/global/show-icons/square-transparent/_100x100_crop_center-center_none/curious-george.png"
+                            }
+                        ]
+                    },
+                    "websiteUrl": "https://pbskids.org/curiousgeorge/",
+                    "ages": "3-5",
+                    "google_analytics_id": "UA-4000040-2",
+                    "shopUrl": "https://shop.pbskids.org/curious-george?utm_source=PBS_kids&utm_medium=brandsite&utm_content=ShopButton&utm_campaign=george_091914",
+                    "parentsUrl": "",
+                    "videoStores": [
+                        {
+                            "store": "google-play",
+                            "url": "https://play.google.com/store/tv/show/Curious_George?id=ESVpnqLEKXE&hl=en"
+                        },
+                        {
+                            "store": "amazon-video",
+                            "url": "https://www.amazon.com/gp/product/B003KIYCD0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003KIYCD0&linkCode=as2&tag=p05a2-20&linkId=R4C7EZJN3AWNNPQD"
+                        }
+                    ],
+                    "sponsors": []
+                },
+                {
+                    "content_type": "program",
+                    "nola_root": "EWHY",
+                    "slug": "elinor-wonders-why",
+                    "title": "Elinor Wonders Why",
+                    "URI": "https://content.services.pbs.org/v2/kidspbsorg/programs/elinor-wonders-why/",
+                    "background_color": "#5a8543",
+                    "images": {
+                        "white_logo": null,
+                        "black_logo": null,
+                        "poster_2x3": "https://image.pbs.org/contentchannels/L8BQjP3-show-poster2x3-hz11xVs.png",
+                        "showcase": "https://image.pbs.org/contentchannels/cPkuMEy-show-showcase-oYf8EBk.png",
+                        "mezzanine_16x9": "https://image.pbs.org/contentchannels/1xSftNV-show-mezzanine16x9-UG8VNeP.png",
+                        "logo": "https://image.pbs.org/pbs-kids/global/show-icons/circle-transparent/200x200_Elinor02_transparentcircle.png",
+                        "background": "https://image.pbs.org/pbs-kids/video-app/ott-show-backgrounds/1920x602__EWHY_Banner.png",
+                        "banner": "https://image.pbs.org/contentchannels/K4oBntl-show-banner-932r8BB.png",
+                        "stack": null,
+                        "color_logo": null
+                    },
+                    "images_resized": {
+                        "logo": [
+                            {
+                                "width": 88,
+                                "height": 88,
+                                "url": "https://cms-tc.pbskids.org/global/show-icons/circle-transparent/_88x88_crop_center-center_none/200x200_Elinor02_transparentcircle.png"
+                            }
+                        ],
+                        "logo_square": [
+                            {
+                                "width": 100,
+                                "height": 100,
+                                "url": "https://cms-tc.pbskids.org/global/show-icons/square-transparent/_100x100_crop_center-center_none/200x200_Elinor02_transparent.png"
+                            }
+                        ]
+                    },
+                    "websiteUrl": "https://pbskids.org/elinor",
+                    "ages": "3-5",
+                    "google_analytics_id": "UA-163830983-2",
+                    "shopUrl": "",
+                    "parentsUrl": "",
+                    "videoStores": [],
+                    "sponsors": [
+                        {
+                            "image_url": "https://cms-tc.pbskids.org/sponsors/McCormick-600px.png",
+                            "link_url": "https://www.mccormick.com/its-gonna-be-great",
+                            "title": "McCormick - Elinor Wonders Why",
+                            "guid": "ac7e30c4-cd83-4803-bdbb-c04f5e3d1190"
+                        },
+                        {
+                            "image_url": "https://cms-tc.pbskids.org/sponsors/ABCmouse_com_noTag_RGB_600.png",
+                            "link_url": "https://www.abcmouse.com/abc/?8a08850bc2=T2503008514.1640035876.7426",
+                            "title": "ABC Mouse - Elinor Wonders Why",
+                            "guid": "bb1094c5-2988-4e32-bc91-75c93a72224c"
+                        }
+                    ]
+                },
+                {
+                    "content_type": "program",
+                    "nola_root": "MDEN",
+                    "slug": "molly-of-denali",
+                    "title": "Molly of Denali",
+                    "URI": "https://content.services.pbs.org/v2/kidspbsorg/programs/molly-of-denali/",
+                    "background_color": "#2d98d5",
+                    "images": {
+                        "white_logo": null,
+                        "black_logo": null,
+                        "poster_2x3": "https://image.pbs.org/contentchannels/FHRYTpl-show-poster2x3-HuTxOor.jpg",
+                        "showcase": "https://image.pbs.org/contentchannels/gYxm8Ak-show-showcase-9RURqjL.jpg",
+                        "mezzanine_16x9": "https://image.pbs.org/contentchannels/h4oZMS6-show-mezzanine16x9-5nJC0DK.jpg",
+                        "logo": "https://image.pbs.org/pbs-kids/global/show-icons/circle-transparent/200x200_molly-of-denali_transparents.png",
+                        "background": "https://image.pbs.org/pbs-kids/video-app/ott-show-backgrounds/1920x602_MollyOfDenali_AppleTV_Background.png",
+                        "banner": "https://image.pbs.org/contentchannels/JahTIKB-show-banner-qVld88m.jpg",
+                        "stack": null,
+                        "color_logo": null
+                    },
+                    "images_resized": {
+                        "logo": [
+                            {
+                                "width": 88,
+                                "height": 88,
+                                "url": "https://cms-tc.pbskids.org/global/show-icons/circle-transparent/_88x88_crop_center-center_none/200x200_molly-of-denali_transparents.png"
+                            }
+                        ],
+                        "logo_square": [
+                            {
+                                "width": 100,
+                                "height": 100,
+                                "url": "https://cms-tc.pbskids.org/global/show-icons/square-transparent/_100x100_crop_center-center_none/400x400_SquareIcon_Molly.png"
+                            }
+                        ]
+                    },
+                    "websiteUrl": "https://pbskids.org/molly",
+                    "ages": "4-8",
+                    "google_analytics_id": "UA-130147038-2",
+                    "shopUrl": "https://shop.pbskids.org/molly-of-denali",
+                    "parentsUrl": "",
+                    "videoStores": [],
+                    "sponsors": [
+                        {
+                            "image_url": "https://cms-tc.pbskids.org/sponsors/target90x48.png",
+                            "link_url": "https://corporate.target.com/corporate-responsibility/community",
+                            "title": "Target - Pinkalicious",
+                            "guid": "19e66394-ad89-4fea-9569-b3f60d9e362d"
+                        },
+                        {
+                            "image_url": "https://cms-tc.pbskids.org/sponsors/ABCmouse_com_noTag_RGB_600.png",
+                            "link_url": "https://www.abcmouse.com/abc/?8a08850bc2=T2503008514.1640035876.7426",
+                            "title": "ABC Mouse - Molly of Denali",
+                            "guid": "4c0fbbe0-41da-4bfe-8737-f01d4f6f4e8e"
+                        }
+                    ]
+                },
+                {
+                    "content_type": "program",
+                    "nola_root": "HERE",
+                    "slug": "hero-elementary",
+                    "title": "Hero Elementary",
+                    "URI": "https://content.services.pbs.org/v2/kidspbsorg/programs/hero-elementary/",
+                    "background_color": "#8246af",
+                    "images": {
+                        "white_logo": null,
+                        "black_logo": null,
+                        "poster_2x3": "https://image.pbs.org/contentchannels/ObCf5PV-show-poster2x3-8wjK9Ls.jpg",
+                        "showcase": "https://image.pbs.org/contentchannels/fO9TnDU-show-showcase-Ua28Kb1.jpg",
+                        "mezzanine_16x9": "https://image.pbs.org/contentchannels/SUrGdvR-show-mezzanine16x9-AZp2iqT.png",
+                        "logo": "https://image.pbs.org/pbs-kids/global/show-icons/circle-transparent/200x200_heroElementary_clearCircle.png",
+                        "background": "https://image.pbs.org/pbs-kids/video-app/ott-show-backgrounds/1920x602_AppleTV-Background-HeroElementary.png",
+                        "banner": "https://image.pbs.org/contentchannels/K5UPrFG-show-banner-6GIGQkn.jpg",
+                        "stack": null,
+                        "color_logo": null
+                    },
+                    "images_resized": {
+                        "logo": [
+                            {
+                                "width": 88,
+                                "height": 88,
+                                "url": "https://cms-tc.pbskids.org/global/show-icons/circle-transparent/_88x88_crop_center-center_none/200x200_heroElementary_clearCircle.png"
+                            }
+                        ],
+                        "logo_square": [
+                            {
+                                "width": 100,
+                                "height": 100,
+                                "url": "https://cms-tc.pbskids.org/global/show-icons/square-transparent/_100x100_crop_center-center_none/200x200_heroElementary_square.png"
+                            }
+                        ]
+                    },
+                    "websiteUrl": "https://pbskids.org/heroelementary",
+                    "ages": "5-8",
+                    "google_analytics_id": "UA-163826691-3",
+                    "shopUrl": "",
+                    "parentsUrl": "",
+                    "videoStores": [],
+                    "sponsors": [
+                        {
+                            "image_url": "https://cms-tc.pbskids.org/sponsors/ABCmouse_com_noTag_RGB_600x600-june2020-v2.png",
+                            "link_url": "https://www.abcmouse.com/",
+                            "title": "ABC Mouse - Hero Elementary",
+                            "guid": "ba4567dc-404d-4bcc-9504-e732e733cba8"
+                        },
+                        {
+                            "image_url": "https://cms-tc.pbskids.org/sponsors/BullseyeNoR_19_Red_RGB.png",
+                            "link_url": "https://corporate.target.com/corporate-responsibility/community",
+                            "title": "Target - Hero Elementary",
+                            "guid": "cd0adfe4-abd5-4981-b9fe-70682914dd86"
+                        }
+                    ]
+                },
+                {
+                    "content_type": "program",
+                    "nola_root": "LELU",
+                    "slug": "lets-go-luna",
+                    "title": "Let's Go Luna!",
+                    "URI": "https://content.services.pbs.org/v2/kidspbsorg/programs/lets-go-luna/",
+                    "background_color": "#ad03be",
+                    "images": {
+                        "white_logo": null,
+                        "black_logo": null,
+                        "poster_2x3": "https://image.pbs.org/contentchannels/6v5iXkz-show-poster2x3-0M69Zad.jpg",
+                        "showcase": "https://image.pbs.org/contentchannels/v6cZFL5-show-showcase-ApHkPOp.jpg",
+                        "mezzanine_16x9": "https://image.pbs.org/contentchannels/BrVnm64-show-mezzanine16x9-Rr7PTR7.jpg",
+                        "logo": "https://image.pbs.org/pbs-kids/global/show-icons/circle-transparent/200x200_show_luna_circle.png",
+                        "background": "https://image.pbs.org/pbs-kids/video-app/ott-show-backgrounds/1920x602_LetsGoLuna_AppleTV_Background.png",
+                        "banner": "https://image.pbs.org/contentchannels/wpKPAx8-show-banner-6J8vuzF.jpg",
+                        "stack": null,
+                        "color_logo": null
+                    },
+                    "images_resized": {
+                        "logo": [
+                            {
+                                "width": 88,
+                                "height": 88,
+                                "url": "https://cms-tc.pbskids.org/global/show-icons/circle-transparent/_88x88_crop_center-center_none/200x200_show_luna_circle.png"
+                            }
+                        ],
+                        "logo_square": [
+                            {
+                                "width": 100,
+                                "height": 100,
+                                "url": "https://cms-tc.pbskids.org/global/show-icons/square-transparent/_100x100_crop_center-center_none/200x200_show_luna_square.png"
+                            }
+                        ]
+                    },
+                    "websiteUrl": "https://pbskids.org/luna",
+                    "ages": "4-7",
+                    "google_analytics_id": "UA-121100908-2",
+                    "shopUrl": "https://shop.pbskids.org/lets-go-luna",
+                    "parentsUrl": "",
+                    "videoStores": [],
+                    "sponsors": [
+                        {
+                            "image_url": "https://cms-tc.pbskids.org/sponsors/BullseyeNoR_19_rgb_Red_600x600px.png",
+                            "link_url": "https://corporate.target.com/corporate-responsibility/community",
+                            "title": "Target",
+                            "guid": "907ee5ff-5263-45dd-a00b-8148d7ffff7d"
+                        },
+                        {
+                            "image_url": "https://cms-tc.pbskids.org/sponsors/McCormick-600px.png",
+                            "link_url": "https://urldefense.proofpoint.com/v2/url?u=https-3A__www.mccormick.com_its-2Dgonna-2Dbe-2Dgreat&d=DwMGaQ&c=QX2OfGk7aRC3kh1nmtbeQQ&r=Ha5bz9US9JmDOj7g_lnuIR0Ez6ta9wIElcSDMp2b6fI&m=0MWNzLya9dW9A6hiETfnNhsv7VBwssgY-Uz7ZInof5qpWJHCtsDcsi4-Ro2jjJ8u&s=Pg767F_Hytaxlc6vZOPCJTdoAJa7H77L3Vk1OchijLQ&e=",
+                            "title": "McCormick - Let's Go Luna",
+                            "guid": "7603a3d1-b2bb-46f4-a80d-572b93c45063"
+                        }
+                    ]
+                },
+                {
+                    "content_type": "program",
+                    "nola_root": "NCAT",
+                    "slug": "nature-cat",
+                    "title": "Nature Cat",
+                    "URI": "https://content.services.pbs.org/v2/kidspbsorg/programs/nature-cat/",
+                    "background_color": "#477013",
+                    "images": {
+                        "white_logo": null,
+                        "black_logo": null,
+                        "poster_2x3": "https://image.pbs.org/contentchannels/3137/zaExc9lTUwD7IIgu0rHjBA.jpg",
+                        "showcase": "https://image.pbs.org/contentchannels/3137/JrBulzs3l83Rzyfp8wEGQ.jpg",
+                        "mezzanine_16x9": "https://image.pbs.org/contentchannels/3137/SdDjIg8rbVPPTv4UxpJdw.jpg",
+                        "logo": "https://image.pbs.org/pbs-kids/global/show-icons/circle-transparent/200x200_naturecat.png",
+                        "background": "https://image.pbs.org/pbs-kids/video-app/ott-show-backgrounds/1920x602_NatureCat_AppleTV_Background.png",
+                        "banner": "https://image.pbs.org/contentchannels/3137/K7rPxq23gth5tIUqDiDhaA.jpg",
+                        "stack": null,
+                        "color_logo": null
+                    },
+                    "images_resized": {
+                        "logo": [
+                            {
+                                "width": 88,
+                                "height": 88,
+                                "url": "https://cms-tc.pbskids.org/global/show-icons/circle-transparent/_88x88_crop_center-center_none/200x200_naturecat.png"
+                            }
+                        ],
+                        "logo_square": [
+                            {
+                                "width": 100,
+                                "height": 100,
+                                "url": "https://cms-tc.pbskids.org/global/show-icons/square-transparent/_100x100_crop_center-center_none/400x400_SquareIcon_NatureCat.png"
+                            }
+                        ]
+                    },
+                    "websiteUrl": "https://pbskids.org/naturecat/",
+                    "ages": "3-7",
+                    "google_analytics_id": "UA-68465755-2",
+                    "shopUrl": "https://shop.pbskids.org/nature-cat",
+                    "parentsUrl": "",
+                    "videoStores": [],
+                    "sponsors": []
+                },
+                {
+                    "content_type": "program",
+                    "nola_root": "ARUR",
+                    "slug": "arthur",
+                    "title": "Arthur",
+                    "URI": "https://content.services.pbs.org/v2/kidspbsorg/programs/arthur/",
+                    "background_color": "#48A5D4",
+                    "images": {
+                        "white_logo": null,
+                        "black_logo": null,
+                        "poster_2x3": "https://image.pbs.org/contentchannels/1962/z6UnZFi0ACMHABl1pQYw.jpg",
+                        "showcase": "https://image.pbs.org/contentchannels/1962/IKmpk10xyYjNZ8Qaif5Bvg.jpg",
+                        "mezzanine_16x9": "https://image.pbs.org/contentchannels/1962/CU8HtRroSUvWqrk2BV4nA.jpg",
+                        "logo": "https://image.pbs.org/pbs-kids/global/show-icons/circle-transparent/200x200_arthur_circle.png",
+                        "background": "https://image.pbs.org/pbs-kids/video-app/ott-show-backgrounds/1920x608-AppleTV-Background-Apple-1.png",
+                        "banner": "https://image.pbs.org/contentchannels/1962/pNX1mWtN0yPGGTLzwHpg.jpeg",
+                        "stack": null,
+                        "color_logo": null
+                    },
+                    "images_resized": {
+                        "logo": [
+                            {
+                                "width": 88,
+                                "height": 88,
+                                "url": "https://cms-tc.pbskids.org/global/show-icons/circle-transparent/_88x88_crop_center-center_none/200x200_arthur_circle.png"
+                            }
+                        ],
+                        "logo_square": [
+                            {
+                                "width": 100,
+                                "height": 100,
+                                "url": "https://cms-tc.pbskids.org/global/show-icons/square-transparent/_100x100_crop_center-center_none/400x400_arthur.png"
+                            }
+                        ]
+                    },
+                    "websiteUrl": "https://pbskids.org/arthur",
+                    "ages": "4-8",
+                    "google_analytics_id": "UA-3999950-2",
+                    "shopUrl": "https://shop.pbskids.org/arthur?utm_source=PBS_kids&utm_medium=brandsite&utm_content=ShopButton&utm_campaign=Arthur_091914",
+                    "parentsUrl": "",
+                    "videoStores": [
+                        {
+                            "store": "amazon-video",
+                            "url": "https://www.amazon.com/gp/product/B00E7NLVZY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00E7NLVZY&linkCode=as2&tag=p05a2-20&linkId=DNBEIGFBLEXWVXSA"
+                        },
+                        {
+                            "store": "itunes",
+                            "url": "https://itunes.apple.com/us/tv-season/arthur-season-16/id672257582?uo=4&at=11l3Sf&ct=ArthurVIDEOS"
+                        }
+                    ],
+                    "sponsors": [
+                        {
+                            "image_url": "https://cms-tc.pbskids.org/sponsors/ABCmouse_com_noTag_RGB_600x600-August2020.png",
+                            "link_url": "https://www.abcmouse.com/",
+                            "title": "ABC Mouse - Arthur",
+                            "guid": "ed3c7e9d-d8da-4612-9ce4-4b23d95985e0"
+                        },
+                        {
+                            "image_url": "https://cms-tc.pbskids.org/sponsors/ikea_noto_black-600px.png",
+                            "link_url": "https://www.ikea.com/us/en/campaigns/safer-homes-pub06b8249f",
+                            "title": "IKEA - Arthur",
+                            "guid": "cb7f4ac3-290e-4706-9e1c-af2fbf04c235"
+                        }
+                    ]
+                },
+                {
+                    "content_type": "program",
+                    "nola_root": "DINS",
+                    "slug": "dinosaur-train",
+                    "title": "Dinosaur Train",
+                    "URI": "https://content.services.pbs.org/v2/kidspbsorg/programs/dinosaur-train/",
+                    "background_color": "#70932d",
+                    "images": {
+                        "white_logo": null,
+                        "black_logo": null,
+                        "poster_2x3": "https://image.pbs.org/contentchannels/1949/j0PhSLYXDmnyRooCkfKw.jpg",
+                        "showcase": "https://image.pbs.org/contentchannels/1949/XKEEXVghBwvDN6g7J6KyA.jpg",
+                        "mezzanine_16x9": "https://image.pbs.org/contentchannels/1949/lD2D44upbdUo90DUkaoliw.jpg",
+                        "logo": "https://image.pbs.org/pbs-kids/global/show-icons/circle-transparent/200x200_dinotrain.png",
+                        "background": "https://image.pbs.org/pbs-kids/video-app/ott-show-backgrounds/1920x602_DinoTrain_AppleTV_Background.png",
+                        "banner": "https://image.pbs.org/contentchannels/1949/K8NaB7jVU38q8BzbtYGoFA.jpg",
+                        "stack": null,
+                        "color_logo": null
+                    },
+                    "images_resized": {
+                        "logo": [
+                            {
+                                "width": 88,
+                                "height": 88,
+                                "url": "https://cms-tc.pbskids.org/global/show-icons/circle-transparent/_88x88_crop_center-center_none/200x200_dinotrain.png"
+                            }
+                        ],
+                        "logo_square": [
+                            {
+                                "width": 100,
+                                "height": 100,
+                                "url": "https://cms-tc.pbskids.org/global/show-icons/square-transparent/_100x100_crop_center-center_none/400x400_dinoTrain.png"
+                            }
+                        ]
+                    },
+                    "websiteUrl": "https://pbskids.org/dinosaurtrain/",
+                    "ages": "3-6",
+                    "google_analytics_id": "UA-10166683-2",
+                    "shopUrl": "https://shop.pbskids.org/dinosaur-train?utm_source=PBS_kids&utm_medium=brandsite&utm_content=ShopButton&utm_campaign=dinotrain_091914",
+                    "parentsUrl": "",
+                    "videoStores": [
+                        {
+                            "store": "amazon-video",
+                            "url": "https://www.amazon.com/gp/product/B00DWK849O/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00DWK849O&linkCode=as2&tag=p05a2-20&linkId=E7IJHSWTVUAQ2CYS"
+                        },
+                        {
+                            "store": "itunes",
+                            "url": "https://itunes.apple.com/us/tv-season/dinosaur-train-vol.-5/id563534130?uo=4&at=11l3Sf&ct=DinosaurTrainVIDEOS"
+                        },
+                        {
+                            "store": "google-play",
+                            "url": "https://play.google.com/store/tv/show/Dinosaur_Train?id=alSsTovTFK0&hl=en"
+                        }
+                    ],
+                    "sponsors": []
+                },
+                {
+                    "content_type": "program",
+                    "nola_root": "XRID",
+                    "slug": "xavier-riddle-and-secret-museum",
+                    "title": "Xavier Riddle and the Secret Museum",
+                    "URI": "https://content.services.pbs.org/v2/kidspbsorg/programs/xavier-riddle-and-secret-museum/",
+                    "background_color": "#344AD2",
+                    "images": {
+                        "white_logo": null,
+                        "black_logo": null,
+                        "poster_2x3": "https://image.pbs.org/contentchannels/2SCzplm-show-poster2x3-UjzGUuY.jpg",
+                        "showcase": "https://image.pbs.org/contentchannels/UNye18f-show-showcase-XK7wDxJ.png",
+                        "mezzanine_16x9": "https://image.pbs.org/contentchannels/qAHKY7U-show-mezzanine16x9-EdZKO8h.png",
+                        "logo": "https://image.pbs.org/pbs-kids/global/show-icons/circle-transparent/200x200_Xavier-Circle.png",
+                        "background": "https://image.pbs.org/pbs-kids/video-app/ott-show-backgrounds/1920x608_AppleTV-Background-update_Xavier-1.png",
+                        "banner": "https://image.pbs.org/contentchannels/snQVxnS-show-banner-HEsJqgq.jpg",
+                        "stack": null,
+                        "color_logo": null
+                    },
+                    "images_resized": {
+                        "logo": [
+                            {
+                                "width": 88,
+                                "height": 88,
+                                "url": "https://cms-tc.pbskids.org/global/show-icons/circle-transparent/_88x88_crop_center-center_none/200x200_Xavier-Circle.png"
+                            }
+                        ],
+                        "logo_square": [
+                            {
+                                "width": 100,
+                                "height": 100,
+                                "url": "https://cms-tc.pbskids.org/global/show-icons/square-transparent/_100x100_crop_center-center_none/200x200_Xavier-square.png"
+                            }
+                        ]
+                    },
+                    "websiteUrl": "https://pbskids.org/xavier",
+                    "ages": "5-8",
+                    "google_analytics_id": "UA-150826845-2",
+                    "shopUrl": "",
+                    "parentsUrl": "",
+                    "videoStores": [],
+                    "sponsors": [
+                        {
+                            "image_url": "https://cms-tc.pbskids.org/sponsors/600x600-kiddieAcademy_copy.png",
+                            "link_url": "https://kiddieacademy.com/",
+                            "title": "Kiddie Academy (Xavier Riddle)",
+                            "guid": "1a995dff-5e12-47c1-bec9-3af392a47323"
+                        },
+                        {
+                            "image_url": "https://cms-tc.pbskids.org/sponsors/ABCmouse_com_noTag_RGB_600x600-june2020-v2.png",
+                            "link_url": "https://www.abcmouse.com/",
+                            "title": "ABC Mouse - Xavier",
+                            "guid": "37b37cc7-7c78-4310-8499-795fff81dd53"
+                        }
+                    ]
+                },
+                {
+                    "content_type": "program",
+                    "nola_root": "CBDG",
+                    "slug": "clifford-big-red-dog",
+                    "title": "Clifford the Big Red Dog",
+                    "URI": "https://content.services.pbs.org/v2/kidspbsorg/programs/clifford-big-red-dog/",
+                    "background_color": "#e12f28",
+                    "images": {
+                        "white_logo": null,
+                        "black_logo": null,
+                        "poster_2x3": "https://image.pbs.org/contentchannels/0xaBDnY-show-poster2x3-3MGC9CS.jpg",
+                        "showcase": "https://image.pbs.org/contentchannels/TiKHbiq-show-showcase-LD6szH9.jpg",
+                        "mezzanine_16x9": "https://image.pbs.org/contentchannels/PvBmmdN-show-mezzanine16x9-OHleYg0.jpg",
+                        "logo": "https://image.pbs.org/pbs-kids/global/show-icons/circle-transparent/Clifford_200x200_transparent.png",
+                        "background": "https://image.pbs.org/pbs-kids/video-app/ott-show-backgrounds/1920x602_Clifford_AppleTV_Background.png",
+                        "banner": "https://image.pbs.org/contentchannels/JQKsgoA-show-banner-b0ceEtv.png",
+                        "stack": null,
+                        "color_logo": null
+                    },
+                    "images_resized": {
+                        "logo": [
+                            {
+                                "width": 88,
+                                "height": 88,
+                                "url": "https://cms-tc.pbskids.org/global/show-icons/circle-transparent/_88x88_crop_center-center_none/Clifford_200x200_transparent.png"
+                            }
+                        ],
+                        "logo_square": [
+                            {
+                                "width": 100,
+                                "height": 100,
+                                "url": "https://cms-tc.pbskids.org/global/show-icons/square-transparent/_100x100_crop_center-center_none/Clifford_PBSavatar_square_191202_140120.png"
+                            }
+                        ]
+                    },
+                    "websiteUrl": "https://pbskids.org/clifford/",
+                    "ages": "3-5",
+                    "google_analytics_id": "UA-3999587-2",
+                    "shopUrl": "https://shop.pbskids.org/clifford-the-big-red-dog?utm_source=PBS_kids&utm_medium=brandsite&utm_content=ShopButton&utm_campaign=clifford_091914",
+                    "parentsUrl": "https://www.pbs.org/parents/clifford",
+                    "videoStores": [],
+                    "sponsors": []
+                },
+                {
+                    "content_type": "program",
+                    "nola_root": "PBS Kids",
+                    "slug": "pbs-kids-talk-about",
+                    "title": "PBS KIDS Talk About",
+                    "URI": "https://content.services.pbs.org/v2/kidspbsorg/programs/pbs-kids-talk-about/",
+                    "background_color": "#2FC0EB",
+                    "images": {
+                        "white_logo": null,
+                        "black_logo": null,
+                        "poster_2x3": "https://image.pbs.org/contentchannels/CSbVTfg-show-poster2x3-uOmatOc.png",
+                        "showcase": null,
+                        "mezzanine_16x9": "https://image.pbs.org/contentchannels/RjG8nMh-show-mezzanine16x9-0W3WO6b.png",
+                        "logo": "https://image.pbs.org/pbs-kids/global/show-icons/circle-transparent/PKTA_CircleImage_Transparent_2.png",
+                        "background": "https://image.pbs.org/pbs-kids/video-app/ott-show-backgrounds/PKTA_1920x608_AppleTV-Background-1.png",
+                        "banner": null,
+                        "stack": null,
+                        "color_logo": null
+                    },
+                    "images_resized": {
+                        "logo": [
+                            {
+                                "width": 88,
+                                "height": 88,
+                                "url": "https://cms-tc.pbskids.org/global/show-icons/circle-transparent/_88x88_crop_center-center_none/PKTA_CircleImage_Transparent_2.png"
+                            }
+                        ],
+                        "logo_square": []
+                    },
+                    "websiteUrl": "",
+                    "ages": "null-null",
+                    "google_analytics_id": "",
+                    "shopUrl": "",
+                    "parentsUrl": "",
+                    "videoStores": [],
+                    "sponsors": []
+                }
+            ]
+        },
+        "kids-programs-tier-2": {
+            "title": "Programs Tier 2",
+            "content": [
+                {
+                    "content_type": "program",
+                    "nola_root": "JBPO",
+                    "slug": "jelly-ben-pogo",
+                    "title": "Jelly, Ben & Pogo",
+                    "URI": "https://content.services.pbs.org/v2/kidspbsorg/programs/jelly-ben-pogo/",
+                    "background_color": "#7181E4",
+                    "images": {
+                        "white_logo": null,
+                        "black_logo": null,
+                        "poster_2x3": "https://image.pbs.org/contentchannels/RUUtyUn-show-poster2x3-GmitScY.jpg",
+                        "showcase": "https://image.pbs.org/contentchannels/IK8fQSt-show-showcase-naivGux.jpg",
+                        "mezzanine_16x9": "https://image.pbs.org/contentchannels/CR2IVWJ-show-mezzanine16x9-hsutAKq.jpg",
+                        "logo": "https://image.pbs.org/pbs-kids/global/show-icons/circle-transparent/200x200-clear-circle_JBP.png",
+                        "background": "https://image.pbs.org/pbs-kids/video-app/ott-show-backgrounds/1920x602-OTT-Gradient_JBP-1.png",
+                        "banner": null,
+                        "stack": null,
+                        "color_logo": null
+                    },
+                    "images_resized": {
+                        "logo": [
+                            {
+                                "width": 88,
+                                "height": 88,
+                                "url": "https://cms-tc.pbskids.org/global/show-icons/circle-transparent/_88x88_crop_center-center_none/200x200-clear-circle_JBP.png"
+                            }
+                        ],
+                        "logo_square": []
+                    },
+                    "websiteUrl": "",
+                    "ages": "3-8",
+                    "google_analytics_id": "",
+                    "shopUrl": "",
+                    "parentsUrl": "",
+                    "videoStores": [],
+                    "sponsors": []
+                },
+                {
+                    "content_type": "program",
+                    "nola_root": "PBS Kids",
+                    "slug": "mega-wow",
+                    "title": "Mega Wow",
+                    "URI": "https://content.services.pbs.org/v2/kidspbsorg/programs/mega-wow/",
+                    "background_color": "#754590",
+                    "images": {
+                        "white_logo": null,
+                        "black_logo": null,
+                        "poster_2x3": null,
+                        "showcase": "https://image.pbs.org/contentchannels/kN8pjnv-show-showcase-z42j6zj.png",
+                        "mezzanine_16x9": "https://image.pbs.org/contentchannels/UsUqkAA-show-mezzanine16x9-2lK2Lvq.png",
+                        "logo": "https://image.pbs.org/pbs-kids/global/show-icons/circle-transparent/MegaWow_Circle_Transparent.png",
+                        "background": "https://image.pbs.org/pbs-kids/video-app/ott-show-backgrounds/MegaWow_AppleTV_1920by602.png",
+                        "banner": null,
+                        "stack": null,
+                        "color_logo": null
+                    },
+                    "images_resized": {
+                        "logo": [
+                            {
+                                "width": 88,
+                                "height": 88,
+                                "url": "https://cms-tc.pbskids.org/global/show-icons/circle-transparent/_88x88_crop_center-center_none/MegaWow_Circle_Transparent.png"
+                            }
+                        ],
+                        "logo_square": []
+                    },
+                    "websiteUrl": "",
+                    "ages": "5-12",
+                    "google_analytics_id": "",
+                    "shopUrl": "",
+                    "parentsUrl": "",
+                    "videoStores": [],
+                    "sponsors": []
+                },
+                {
+                    "content_type": "program",
+                    "nola_root": "TTWO",
+                    "slug": "through-woods",
+                    "title": "Through the Woods",
+                    "URI": "https://content.services.pbs.org/v2/kidspbsorg/programs/through-woods/",
+                    "background_color": "#284028",
+                    "images": {
+                        "white_logo": null,
+                        "black_logo": null,
+                        "poster_2x3": "https://image.pbs.org/contentchannels/dyygi6h-show-poster2x3-q45M3E2.png",
+                        "showcase": "https://image.pbs.org/contentchannels/8jb3H7Z-show-showcase-P4BfRaq.png",
+                        "mezzanine_16x9": "https://image.pbs.org/contentchannels/Azq9mwE-show-mezzanine16x9-HMdH2yx.png",
+                        "logo": "https://image.pbs.org/pbs-kids/global/show-icons/circle-transparent/TTW_200x200_1.png",
+                        "background": "https://image.pbs.org/pbs-kids/video-app/ott-show-backgrounds/TTW_AppleTV_1920by602-1.png",
+                        "banner": "https://image.pbs.org/contentchannels/OtdiDI7-show-banner-qKUSI3T.png",
+                        "stack": null,
+                        "color_logo": null
+                    },
+                    "images_resized": {
+                        "logo": [
+                            {
+                                "width": 88,
+                                "height": 88,
+                                "url": "https://cms-tc.pbskids.org/global/show-icons/circle-transparent/_88x88_crop_center-center_none/TTW_200x200_1.png"
+                            }
+                        ],
+                        "logo_square": []
+                    },
+                    "websiteUrl": "",
+                    "ages": "3-5",
+                    "google_analytics_id": "",
+                    "shopUrl": "",
+                    "parentsUrl": "",
+                    "videoStores": [],
+                    "sponsors": []
+                },
+                {
+                    "content_type": "program",
+                    "nola_root": "RUFR",
+                    "slug": "ruff-ruffman-show",
+                    "title": "The Ruff Ruffman Show",
+                    "URI": "https://content.services.pbs.org/v2/kidspbsorg/programs/ruff-ruffman-show/",
+                    "background_color": "#ffbb5a",
+                    "images": {
+                        "white_logo": null,
+                        "black_logo": null,
+                        "poster_2x3": "https://image.pbs.org/contentchannels/xJCSiuV-show-poster2x3-ZK368PM.jpg",
+                        "showcase": "https://image.pbs.org/contentchannels/M5C0VAU-show-showcase-wCHf3d3.jpg",
+                        "mezzanine_16x9": "https://image.pbs.org/contentchannels/PoUzIF8-show-mezzanine16x9-feemISx.png",
+                        "logo": "https://image.pbs.org/pbs-kids/global/show-icons/circle-transparent/200x200_HamsterTeam_clearCircle.png",
+                        "background": "https://image.pbs.org/pbs-kids/video-app/ott-show-backgrounds/1920x608-AppleTV-Background-HamsterTeam-v2.png",
+                        "banner": "https://image.pbs.org/contentchannels/kzqL8jC-show-banner-mqeM0V8.jpg",
+                        "stack": null,
+                        "color_logo": null
+                    },
+                    "images_resized": {
+                        "logo": [
+                            {
+                                "width": 88,
+                                "height": 88,
+                                "url": "https://cms-tc.pbskids.org/global/show-icons/circle-transparent/_88x88_crop_center-center_none/200x200_HamsterTeam_clearCircle.png"
+                            }
+                        ],
+                        "logo_square": [
+                            {
+                                "width": 100,
+                                "height": 100,
+                                "url": "https://cms-tc.pbskids.org/global/show-icons/square-transparent/_100x100_crop_center-center_none/400x400_fetch_mockUp3.png"
+                            }
+                        ]
+                    },
+                    "websiteUrl": "https://pbskids.org/ruff/",
+                    "ages": "4-8",
+                    "google_analytics_id": "UA-101859894-2",
+                    "shopUrl": "",
+                    "parentsUrl": "",
+                    "videoStores": [],
+                    "sponsors": []
+                },
+                {
+                    "content_type": "program",
+                    "nola_root": "SCRI",
+                    "slug": "scribbles-and-ink",
+                    "title": "Scribbles and Ink",
+                    "URI": "https://content.services.pbs.org/v2/kidspbsorg/programs/scribbles-and-ink/",
+                    "background_color": "#1D99D5",
+                    "images": {
+                        "white_logo": null,
+                        "black_logo": null,
+                        "poster_2x3": "https://image.pbs.org/contentchannels/gT1adfn-show-poster2x3-h4tJbkO.jpg",
+                        "showcase": "https://image.pbs.org/contentchannels/HfX76IT-show-showcase-ozlgky1.jpg",
+                        "mezzanine_16x9": "https://image.pbs.org/contentchannels/srP52CT-show-mezzanine16x9-8ge3VnG.png",
+                        "logo": "https://image.pbs.org/pbs-kids/global/show-icons/circle-transparent/200x200-ScribblesInk-clearCircle.png",
+                        "background": "https://image.pbs.org/pbs-kids/video-app/ott-show-backgrounds/1920x602_ScribblesInk_AppleTV_Background.png",
+                        "banner": "https://image.pbs.org/contentchannels/KB6YxTZ-show-banner-Q4ramwe.jpg",
+                        "stack": null,
+                        "color_logo": null
+                    },
+                    "images_resized": {
+                        "logo": [
+                            {
+                                "width": 88,
+                                "height": 88,
+                                "url": "https://cms-tc.pbskids.org/global/show-icons/circle-transparent/_88x88_crop_center-center_none/200x200-ScribblesInk-clearCircle.png"
+                            }
+                        ],
+                        "logo_square": [
+                            {
+                                "width": 100,
+                                "height": 100,
+                                "url": "https://cms-tc.pbskids.org/global/show-icons/square-transparent/_100x100_crop_center-center_none/200x200_ScribblesAndInk.png"
+                            }
+                        ]
+                    },
+                    "websiteUrl": "https://pbskids.org/scribblesandink",
+                    "ages": "4-7",
+                    "google_analytics_id": "UA-154726093-2",
+                    "shopUrl": "",
+                    "parentsUrl": "",
+                    "videoStores": [],
+                    "sponsors": []
+                },
+                {
+                    "content_type": "program",
+                    "nola_root": "MSTR",
+                    "slug": "mister-rogers",
+                    "title": "Mister Rogers' Neighborhood",
+                    "URI": "https://content.services.pbs.org/v2/kidspbsorg/programs/mister-rogers/",
+                    "background_color": "#810000",
+                    "images": {
+                        "white_logo": null,
+                        "black_logo": null,
+                        "poster_2x3": "https://image.pbs.org/contentchannels/AevCHDR-show-poster2x3-cPZhB9J.jpg",
+                        "showcase": "https://image.pbs.org/contentchannels/iMIO1JP-show-showcase-yarFB2n.jpg",
+                        "mezzanine_16x9": "https://image.pbs.org/contentchannels/8oLI4uF-show-mezzanine16x9-192O4wL.jpg",
+                        "logo": "https://image.pbs.org/pbs-kids/global/show-icons/circle-transparent/200x200_RogersFINALv2.png",
+                        "background": "https://image.pbs.org/pbs-kids/video-app/ott-show-backgrounds/1920x602_Rodgers_AppleTV_Background2.png",
+                        "banner": "https://image.pbs.org/contentchannels/pJDMapr-show-banner-HT7JIVe.jpg",
+                        "stack": null,
+                        "color_logo": null
+                    },
+                    "images_resized": {
+                        "logo": [
+                            {
+                                "width": 88,
+                                "height": 88,
+                                "url": "https://cms-tc.pbskids.org/global/show-icons/circle-transparent/_88x88_crop_center-center_none/200x200_RogersFINALv2.png"
+                            }
+                        ],
+                        "logo_square": []
+                    },
+                    "websiteUrl": "https://pbskids.org/daniel/",
+                    "ages": "3-6",
+                    "google_analytics_id": "UA-3994102-2",
+                    "shopUrl": "",
+                    "parentsUrl": "",
+                    "videoStores": [],
+                    "sponsors": []
+                },
+                {
+                    "content_type": "program",
+                    "nola_root": "SWHY",
+                    "slug": "super-why",
+                    "title": "SUPER WHY!",
+                    "URI": "https://content.services.pbs.org/v2/kidspbsorg/programs/super-why/",
+                    "background_color": "#2f69d4",
+                    "images": {
+                        "white_logo": null,
+                        "black_logo": null,
+                        "poster_2x3": "https://image.pbs.org/contentchannels/860/9G65F6gISpKRayoyLdwQ.jpg",
+                        "showcase": "https://image.pbs.org/contentchannels/860/IwfKPgiPJqLL1Oa0nLceg.jpg",
+                        "mezzanine_16x9": "https://image.pbs.org/contentchannels/860/0ODzz8eD7IMhkDBl2bkrw.jpg",
+                        "logo": "https://image.pbs.org/pbs-kids/global/show-icons/circle-transparent/200x200_superwhy.png",
+                        "background": "https://image.pbs.org/pbs-kids/video-app/ott-show-backgrounds/1920x602_SuperWhy_AppleTV_Background.png",
+                        "banner": "https://image.pbs.org/contentchannels/860/9Zf3BVvxvJceURcU6Q.jpg",
+                        "stack": null,
+                        "color_logo": null
+                    },
+                    "images_resized": {
+                        "logo": [
+                            {
+                                "width": 88,
+                                "height": 88,
+                                "url": "https://cms-tc.pbskids.org/global/show-icons/circle-transparent/_88x88_crop_center-center_none/200x200_superwhy.png"
+                            }
+                        ],
+                        "logo_square": [
+                            {
+                                "width": 100,
+                                "height": 100,
+                                "url": "https://cms-tc.pbskids.org/global/show-icons/square-transparent/_100x100_crop_center-center_none/400x400_superWhy4.png"
+                            }
+                        ]
+                    },
+                    "websiteUrl": "https://pbskids.org/superwhy/",
+                    "ages": "2-5",
+                    "google_analytics_id": "UA-3994472-2",
+                    "shopUrl": "https://shop.pbskids.org/super-why?utm_source=PBS_kids&utm_medium=brandsite&utm_content=ShopButton&utm_campaign=superwhy_091914",
+                    "parentsUrl": "",
+                    "videoStores": [
+                        {
+                            "store": "amazon-video",
+                            "url": "https://www.amazon.com/gp/product/B0018SOVIA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0018SOVIA&linkCode=as2&tag=p05a2-20&linkId=VCLOMVPXCZQKG6YX"
+                        },
+                        {
+                            "store": "itunes",
+                            "url": "https://itunes.apple.com/us/tv-season/super-why!-vol.-7/id738619274?uo=4&at=11l3Sf&ct=SuperWhyVIDEOS"
+                        },
+                        {
+                            "store": "google-play",
+                            "url": "https://play.google.com/store/tv/show/Super_Why?id=s1gvDyE5LI0&hl=en"
+                        }
+                    ],
+                    "sponsors": []
+                },
+                {
+                    "content_type": "program",
+                    "nola_root": "SESA",
+                    "slug": "sesame-street",
+                    "title": "Sesame Street",
+                    "URI": "https://content.services.pbs.org/v2/kidspbsorg/programs/sesame-street/",
+                    "background_color": "#e64b46",
+                    "images": {
+                        "white_logo": null,
+                        "black_logo": null,
+                        "poster_2x3": "https://image.pbs.org/contentchannels/834/S0kJDTEoEe2VlJxZEhYcIw.jpg",
+                        "showcase": "https://image.pbs.org/contentchannels/834/uLkRds4Jypubi5cE5BI7Q.jpg",
+                        "mezzanine_16x9": "https://image.pbs.org/contentchannels/834/9vPDCX5jv6MD3ZhF3gtWA.jpg",
+                        "logo": "https://image.pbs.org/pbs-kids/global/show-icons/circle-transparent/200x200_sesame.png",
+                        "background": "https://image.pbs.org/pbs-kids/video-app/ott-show-backgrounds/1920x602_SesameStreet_AppleTV_Background.png",
+                        "banner": "https://image.pbs.org/contentchannels/834/DjPjDXIEUpZeKk3bnUsOw.jpg",
+                        "stack": null,
+                        "color_logo": null
+                    },
+                    "images_resized": {
+                        "logo": [
+                            {
+                                "width": 88,
+                                "height": 88,
+                                "url": "https://cms-tc.pbskids.org/global/show-icons/circle-transparent/_88x88_crop_center-center_none/200x200_sesame.png"
+                            }
+                        ],
+                        "logo_square": [
+                            {
+                                "width": 100,
+                                "height": 100,
+                                "url": "https://cms-tc.pbskids.org/global/show-icons/square-transparent/_100x100_crop_center-center_none/400x400_sesameStreet.png"
+                            }
+                        ]
+                    },
+                    "websiteUrl": "https://pbskids.org/sesame/",
+                    "ages": "2-5",
+                    "google_analytics_id": "UA-3999779-2",
+                    "shopUrl": "https://shop.pbskids.org/sesame-street?utm_source=PBS_kids&utm_medium=brandsite&utm_content=ShopButton&utm_campaign=sesame_091914",
+                    "parentsUrl": "",
+                    "videoStores": [
+                        {
+                            "store": "amazon-video",
+                            "url": "https://www.amazon.com/gp/product/B00FJWMDAE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00FJWMDAE&linkCode=as2&tag=p05a2-20&linkId=WP6WJY7IQKU47IBE"
+                        },
+                        {
+                            "store": "itunes",
+                            "url": "https://itunes.apple.com/us/tv-season/sesame-street-selections-from/id668004472"
+                        },
+                        {
+                            "store": "google-play",
+                            "url": "https://play.google.com/store/tv/show/Sesame_Street?id=ITDfEdutt9o&hl=en"
+                        }
+                    ],
+                    "sponsors": [
+                        {
+                            "image_url": "https://cms-tc.pbskids.org/sponsors/beaches/600x600-beaches_copy.png",
+                            "link_url": "https://www.beaches.com/",
+                            "title": "Beaches",
+                            "guid": "ab72efe0-abea-417e-b4ad-16697a7fb78c"
+                        },
+                        {
+                            "image_url": "https://cms-tc.pbskids.org/sponsors/Progressive_logo_600x600px_PgrBlue_210527_121021.png",
+                            "link_url": "https://www.progressive.com/about/",
+                            "title": "Progressive (Sesame)",
+                            "guid": "c6b81cb1-6df7-4442-a25f-78a7b9420f4c"
+                        },
+                        {
+                            "image_url": "https://cms-tc.pbskids.org/sponsors/SCJ-logo-color-600x.png",
+                            "link_url": "https://www.scjohnson.com/",
+                            "title": "SC Johnson",
+                            "guid": "07552e19-278b-415e-95ed-56483c50bb67"
+                        }
+                    ]
+                },
+                {
+                    "content_type": "program",
+                    "nola_root": "CITH",
+                    "slug": "cat-in-the-hat",
+                    "title": "The Cat in the Hat",
+                    "URI": "https://content.services.pbs.org/v2/kidspbsorg/programs/cat-in-the-hat/",
+                    "background_color": "#71ba47",
+                    "images": {
+                        "white_logo": null,
+                        "black_logo": null,
+                        "poster_2x3": "https://image.pbs.org/contentchannels/94/OFUP0Y8MvZuBqaSqQxg7g.jpg",
+                        "showcase": "https://image.pbs.org/contentchannels/94/uYRrvnREASW9ImL2qbMmA.jpg",
+                        "mezzanine_16x9": "https://image.pbs.org/contentchannels/94/2FZgI0ujjBzaHNlXReDqQ.jpg",
+                        "logo": "https://image.pbs.org/pbs-kids/global/show-icons/circle-transparent/200x200_catinthehat.png",
+                        "background": "https://image.pbs.org/pbs-kids/video-app/ott-show-backgrounds/1920x602_CITH_AppleTV_Background.png",
+                        "banner": "https://image.pbs.org/contentchannels/94/3SMpSxISIdyBfHXCPoiEVg.jpg",
+                        "stack": null,
+                        "color_logo": null
+                    },
+                    "images_resized": {
+                        "logo": [
+                            {
+                                "width": 88,
+                                "height": 88,
+                                "url": "https://cms-tc.pbskids.org/global/show-icons/circle-transparent/_88x88_crop_center-center_none/200x200_catinthehat.png"
+                            }
+                        ],
+                        "logo_square": [
+                            {
+                                "width": 100,
+                                "height": 100,
+                                "url": "https://cms-tc.pbskids.org/global/show-icons/square-transparent/_100x100_crop_center-center_none/400x400_SquareIcon_CITH.png"
+                            }
+                        ]
+                    },
+                    "websiteUrl": "https://pbskids.org/catinthehat/",
+                    "ages": "3-6",
+                    "google_analytics_id": "UA-16155509-2",
+                    "shopUrl": "https://shop.pbskids.org/cat-in-the-hat?utm_source=PBS_kids&utm_medium=brandsite&utm_content=ShopButton&utm_campaign=CITH_091914",
+                    "parentsUrl": "",
+                    "videoStores": [
+                        {
+                            "store": "itunes",
+                            "url": "https://itunes.apple.com/us/tv-season/cat-in-hat-knows-lot-about/id431180775"
+                        }
+                    ],
+                    "sponsors": []
+                },
+                {
+                    "content_type": "program",
+                    "nola_root": "WORG",
+                    "slug": "wordgirl",
+                    "title": "WordGirl",
+                    "URI": "https://content.services.pbs.org/v2/kidspbsorg/programs/wordgirl/",
+                    "background_color": "#24482c",
+                    "images": {
+                        "white_logo": null,
+                        "black_logo": null,
+                        "poster_2x3": "https://image.pbs.org/contentchannels/801/hT7JQPDuoPAI3RpZCElF4g.jpg",
+                        "showcase": "https://image.pbs.org/contentchannels/801/kGTuhWT2RUWCTqMzlYWEA.jpg",
+                        "mezzanine_16x9": "https://image.pbs.org/contentchannels/801/svpBBkRYv7ydywnOtF7X9Q.jpg",
+                        "logo": "https://image.pbs.org/pbs-kids/global/show-icons/circle-transparent/200x200_wordgirl.png",
+                        "background": "https://image.pbs.org/pbs-kids/video-app/ott-show-backgrounds/1920x602_Wordgirl_AppleTV_Background.png",
+                        "banner": "https://image.pbs.org/contentchannels/801/32z9YC8SrqQnKGmhfHJqcg.jpg",
+                        "stack": null,
+                        "color_logo": null
+                    },
+                    "images_resized": {
+                        "logo": [
+                            {
+                                "width": 88,
+                                "height": 88,
+                                "url": "https://cms-tc.pbskids.org/global/show-icons/circle-transparent/_88x88_crop_center-center_none/200x200_wordgirl.png"
+                            }
+                        ],
+                        "logo_square": [
+                            {
+                                "width": 100,
+                                "height": 100,
+                                "url": "https://cms-tc.pbskids.org/global/show-icons/square-transparent/_100x100_crop_center-center_none/400x400_wordgirl.png"
+                            }
+                        ]
+                    },
+                    "websiteUrl": "https://pbskids.org/wordgirl/",
+                    "ages": "5-8",
+                    "google_analytics_id": "UA-3999648-2",
+                    "shopUrl": "https://shop.pbskids.org/wordgirl?utm_source=PBS_kids&utm_medium=brandsite&utm_content=ShopButton&utm_campaign=wordgirl_091914",
+                    "parentsUrl": "",
+                    "videoStores": [
+                        {
+                            "store": "amazon-video",
+                            "url": "https://www.amazon.com/gp/product/B00DWOY2C8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00DWOY2C8&linkCode=as2&tag=p05a2-20&linkId=F6CY2JJCIPV5I373"
+                        },
+                        {
+                            "store": "itunes",
+                            "url": "https://itunes.apple.com/us/tv-season/wordgirl-vol.-3/id492235467"
+                        }
+                    ],
+                    "sponsors": []
+                },
+                {
+                    "content_type": "program",
+                    "nola_root": "CYBR",
+                    "slug": "cyberchase",
+                    "title": "Cyberchase",
+                    "URI": "https://content.services.pbs.org/v2/kidspbsorg/programs/cyberchase/",
+                    "background_color": "#5f278a",
+                    "images": {
+                        "white_logo": null,
+                        "black_logo": null,
+                        "poster_2x3": "https://image.pbs.org/contentchannels/1946/pAyuWtsBTvFCfpZcupA.jpg",
+                        "showcase": "https://image.pbs.org/contentchannels/1946/iuw7xMSdf2urtGgGQBQTg.jpg",
+                        "mezzanine_16x9": "https://image.pbs.org/contentchannels/1946/F9tyqvkVAEI8HvDcyNMgUQ.jpg",
+                        "logo": "https://image.pbs.org/pbs-kids/global/show-icons/circle-transparent/200x200_cyberchase.png",
+                        "background": "https://image.pbs.org/pbs-kids/video-app/ott-show-backgrounds/1920x602_CyberChase_AppleTV_Background.png",
+                        "banner": "https://image.pbs.org/contentchannels/1946/yjAt0OtIyxAXv3HO1zGPA.jpg",
+                        "stack": null,
+                        "color_logo": null
+                    },
+                    "images_resized": {
+                        "logo": [
+                            {
+                                "width": 88,
+                                "height": 88,
+                                "url": "https://cms-tc.pbskids.org/global/show-icons/circle-transparent/_88x88_crop_center-center_none/200x200_cyberchase.png"
+                            }
+                        ],
+                        "logo_square": [
+                            {
+                                "width": 100,
+                                "height": 100,
+                                "url": "https://cms-tc.pbskids.org/global/show-icons/square-transparent/_100x100_crop_center-center_none/400x400_cyberchase.png"
+                            }
+                        ]
+                    },
+                    "websiteUrl": "https://pbskids.org/cyberchase/",
+                    "ages": "4-8",
+                    "google_analytics_id": "UA-2223922-2",
+                    "shopUrl": "",
+                    "parentsUrl": "",
+                    "videoStores": [
+                        {
+                            "store": "itunes",
+                            "url": "https://itunes.apple.com/us/tv-season/cyberchase/id201135434"
+                        }
+                    ],
+                    "sponsors": [
+                        {
+                            "image_url": "https://cms-tc.pbskids.org/sponsors/national-science-foundation/600x600-nsf.png",
+                            "link_url": "https://www.nsf.gov/",
+                            "title": "National Science Foundation",
+                            "guid": "78fc176e-23fc-4394-9353-746c9723345e"
+                        },
+                        {
+                            "image_url": "https://cms-tc.pbskids.org/sponsors/EY-Logo_forPBS_600x600_NEW_190904_172618.png",
+                            "link_url": "https://ey.com/us/cr",
+                            "title": "Ernst & Young",
+                            "guid": "aac3ef5e-8ffd-40fd-8853-5ddb2ac0165e"
+                        }
+                    ]
+                },
+                {
+                    "content_type": "program",
+                    "nola_root": "PCAT",
+                    "slug": "peg",
+                    "title": "Peg + Cat",
+                    "URI": "https://content.services.pbs.org/v2/kidspbsorg/programs/peg/",
+                    "background_color": "#6a1e66",
+                    "images": {
+                        "white_logo": null,
+                        "black_logo": null,
+                        "poster_2x3": "https://image.pbs.org/contentchannels/2053/oXr8Y732BRFUejJlKQA45A.jpg",
+                        "showcase": "https://image.pbs.org/contentchannels/2053/F7MNOs8LkLqAWh6zZxQ.jpg",
+                        "mezzanine_16x9": "https://image.pbs.org/contentchannels/2053/2JZRNiQqimlxkoPFWDHFkQ.jpg",
+                        "logo": "https://image.pbs.org/pbs-kids/global/show-icons/circle-transparent/200x200-Peg.png",
+                        "background": "https://image.pbs.org/pbs-kids/video-app/ott-show-backgrounds/1920x602_PegCat_AppleTV_Background.png",
+                        "banner": "https://image.pbs.org/contentchannels/2053/W3pz8vC4TpMW1WuZrk1bw.jpg",
+                        "stack": null,
+                        "color_logo": null
+                    },
+                    "images_resized": {
+                        "logo": [
+                            {
+                                "width": 88,
+                                "height": 88,
+                                "url": "https://cms-tc.pbskids.org/global/show-icons/circle-transparent/_88x88_crop_center-center_none/200x200-Peg.png"
+                            }
+                        ],
+                        "logo_square": [
+                            {
+                                "width": 100,
+                                "height": 100,
+                                "url": "https://cms-tc.pbskids.org/global/show-icons/square-transparent/_100x100_crop_center-center_none/peg-cat_both.png"
+                            }
+                        ]
+                    },
+                    "websiteUrl": "https://pbskids.org/peg/",
+                    "ages": "3-5",
+                    "google_analytics_id": "UA-24428255-2",
+                    "shopUrl": "https://shop.pbskids.org/peg-cat",
+                    "parentsUrl": "",
+                    "videoStores": [],
+                    "sponsors": [
+                        {
+                            "image_url": "https://cms-tc.pbskids.org/sponsors/national-science-foundation/600x600-nsf.png",
+                            "link_url": "https://www.nsf.gov/",
+                            "title": "National Science Foundation",
+                            "guid": "78fc176e-23fc-4394-9353-746c9723345e"
+                        }
+                    ]
+                },
+                {
+                    "content_type": "program",
+                    "nola_root": "SBUB",
+                    "slug": "splash-and-bubbles",
+                    "title": "Splash and Bubbles",
+                    "URI": "https://content.services.pbs.org/v2/kidspbsorg/programs/splash-and-bubbles/",
+                    "background_color": "#773c80",
+                    "images": {
+                        "white_logo": null,
+                        "black_logo": null,
+                        "poster_2x3": "https://image.pbs.org/contentchannels/3596/Vmve7Ux0cUAXPZE2S9AJg.jpg",
+                        "showcase": "https://image.pbs.org/contentchannels/3596/aoppZp7qwAGYgQy0RUZDnQ.jpg",
+                        "mezzanine_16x9": "https://image.pbs.org/contentchannels/3596/VrWWN9G2irq7yRG4WK13TQ.jpg",
+                        "logo": "https://image.pbs.org/pbs-kids/global/show-icons/circle-transparent/200x200_splash_and_bubbles_transparent.png",
+                        "background": "https://image.pbs.org/pbs-kids/video-app/ott-show-backgrounds/1920x602_SplashBubbles_AppleTV_Background.png",
+                        "banner": "https://image.pbs.org/contentchannels/3596/oyGmltaaGV4RmcgER763w.png",
+                        "stack": null,
+                        "color_logo": null
+                    },
+                    "images_resized": {
+                        "logo": [
+                            {
+                                "width": 88,
+                                "height": 88,
+                                "url": "https://cms-tc.pbskids.org/global/show-icons/circle-transparent/_88x88_crop_center-center_none/200x200_splash_and_bubbles_transparent.png"
+                            }
+                        ],
+                        "logo_square": [
+                            {
+                                "width": 100,
+                                "height": 100,
+                                "url": "https://cms-tc.pbskids.org/global/show-icons/square-transparent/_100x100_crop_center-center_none/400x400_SquareIcon_Splash.png"
+                            }
+                        ]
+                    },
+                    "websiteUrl": "https://pbskids.org/splashandbubbles",
+                    "ages": "2-5",
+                    "google_analytics_id": "UA-77875190-2",
+                    "shopUrl": "https://shop.pbskids.org/splash-and-bubbles",
+                    "parentsUrl": "",
+                    "videoStores": [],
+                    "sponsors": []
+                },
+                {
+                    "content_type": "program",
+                    "nola_root": "RJGO",
+                    "slug": "ready-jet-go",
+                    "title": "Ready Jet Go",
+                    "URI": "https://content.services.pbs.org/v2/kidspbsorg/programs/ready-jet-go/",
+                    "background_color": "#000000",
+                    "images": {
+                        "white_logo": null,
+                        "black_logo": null,
+                        "poster_2x3": "https://image.pbs.org/contentchannels/3310/5BvwlOhbV2ywG1mrC551w.jpg",
+                        "showcase": "https://image.pbs.org/contentchannels/3310/OVwHmtJGWC8VVk2h0vewg.jpg",
+                        "mezzanine_16x9": "https://image.pbs.org/contentchannels/3310/zZqjprDe5Q2HQlBKUk8vRQ.jpg",
+                        "logo": "https://image.pbs.org/pbs-kids/global/show-icons/circle-transparent/200x200_jet_160211_091901.png",
+                        "background": "https://image.pbs.org/pbs-kids/video-app/ott-show-backgrounds/1920x602_ReadyJetGo_AppleTV_Background.png",
+                        "banner": "https://image.pbs.org/contentchannels/3310/mTjaA7hQsnSyg398zAdbA.jpg",
+                        "stack": null,
+                        "color_logo": null
+                    },
+                    "images_resized": {
+                        "logo": [
+                            {
+                                "width": 88,
+                                "height": 88,
+                                "url": "https://cms-tc.pbskids.org/global/show-icons/circle-transparent/_88x88_crop_center-center_none/200x200_jet_160211_091901.png"
+                            }
+                        ],
+                        "logo_square": [
+                            {
+                                "width": 100,
+                                "height": 100,
+                                "url": "https://cms-tc.pbskids.org/global/show-icons/square-transparent/_100x100_crop_center-center_none/200x200_ReadyJetGo_2.png"
+                            }
+                        ]
+                    },
+                    "websiteUrl": "https://pbskids.org/readyjetgo/",
+                    "ages": "5-8",
+                    "google_analytics_id": "UA-68471816-2",
+                    "shopUrl": "https://shop.pbskids.org/ready-jet-go",
+                    "parentsUrl": "",
+                    "videoStores": [],
+                    "sponsors": [
+                        {
+                            "image_url": "https://cms-tc.pbskids.org/sponsors/ABCmouse_com_noTag_RGB_600x600-june2020-v2.png",
+                            "link_url": "https://www.abcmouse.com/",
+                            "title": "ABC Mouse - Ready Jet Go!",
+                            "guid": "00b5242c-0959-4350-b776-516c6d67e4e4"
+                        }
+                    ]
+                },
+                {
+                    "content_type": "program",
+                    "nola_root": "PBS Kids",
+                    "slug": "dots-spot",
+                    "title": "Dot's Spot",
+                    "URI": "https://content.services.pbs.org/v2/kidspbsorg/programs/dots-spot/",
+                    "background_color": "#E5296B",
+                    "images": {
+                        "white_logo": null,
+                        "black_logo": null,
+                        "poster_2x3": "https://image.pbs.org/contentchannels/8ufoVyD-show-poster2x3-sZDbBcm.png",
+                        "showcase": "https://image.pbs.org/contentchannels/zRCNA7i-show-showcase-lk3y0PE.png",
+                        "mezzanine_16x9": "https://image.pbs.org/contentchannels/UVtgWjL-show-mezzanine16x9-oPDXpYR.png",
+                        "logo": "https://image.pbs.org/pbs-kids/global/show-icons/circle-transparent/200x200_DotsSpots2.png",
+                        "background": "https://image.pbs.org/pbs-kids/video-app/ott-show-backgrounds/1920x608_AppleTV-Background-update_Dots-Spot-1.png",
+                        "banner": "https://image.pbs.org/contentchannels/yYhssah-show-banner-Ysm1n4f.png",
+                        "stack": null,
+                        "color_logo": null
+                    },
+                    "images_resized": {
+                        "logo": [
+                            {
+                                "width": 88,
+                                "height": 88,
+                                "url": "https://cms-tc.pbskids.org/global/show-icons/circle-transparent/_88x88_crop_center-center_none/200x200_DotsSpots2.png"
+                            }
+                        ],
+                        "logo_square": []
+                    },
+                    "websiteUrl": "https://pbskids.org/games/",
+                    "ages": "2-8",
+                    "google_analytics_id": "",
+                    "shopUrl": "https://shop.pbskids.org/",
+                    "parentsUrl": "",
+                    "videoStores": [],
+                    "sponsors": []
+                }
+            ]
+        },
+        "kids-programs-tier-3": {
+            "title": "Programs Tier 3",
+            "content": [
+                {
+                    "content_type": "program",
+                    "nola_root": "SISK",
+                    "slug": "sid-science-kid",
+                    "title": "Sid the Science Kid",
+                    "URI": "https://content.services.pbs.org/v2/kidspbsorg/programs/sid-science-kid/",
+                    "background_color": "#0081CA",
+                    "images": {
+                        "white_logo": null,
+                        "black_logo": null,
+                        "poster_2x3": "https://image.pbs.org/contentchannels/877/kouPZu8ScurUG5dAIEOhPA.jpg",
+                        "showcase": "https://image.pbs.org/contentchannels/877/aiQAaixvYqHk9c0x3gR61w.jpg",
+                        "mezzanine_16x9": "https://image.pbs.org/contentchannels/877/xNZbx6nJcdoDabllqqn81w.jpg",
+                        "logo": "https://image.pbs.org/pbs-kids/global/show-icons/circle-transparent/200x200_sid.png",
+                        "background": "https://image.pbs.org/pbs-kids/video-app/ott-show-backgrounds/1920x608_AppleTV-Background-update_Sid-the-Sci-1.png",
+                        "banner": "https://image.pbs.org/contentchannels/877/0mEetIWOzEjJzn5ILvMA5A.jpg",
+                        "stack": null,
+                        "color_logo": null
+                    },
+                    "images_resized": {
+                        "logo": [
+                            {
+                                "width": 88,
+                                "height": 88,
+                                "url": "https://cms-tc.pbskids.org/global/show-icons/circle-transparent/_88x88_crop_center-center_none/200x200_sid.png"
+                            }
+                        ],
+                        "logo_square": [
+                            {
+                                "width": 100,
+                                "height": 100,
+                                "url": "https://cms-tc.pbskids.org/global/show-icons/square-transparent/_100x100_crop_center-center_none/400x400_sid.png"
+                            }
+                        ]
+                    },
+                    "websiteUrl": "https://pbskids.org/sid/",
+                    "ages": "3-6",
+                    "google_analytics_id": "UA-5035505-2",
+                    "shopUrl": "https://shop.pbskids.org/sid-the-science-kid?utm_source=PBS_kids&utm_medium=brandsite&utm_content=ShopButton&utm_campaign=sid_091914",
+                    "parentsUrl": "",
+                    "videoStores": [
+                        {
+                            "store": "itunes",
+                            "url": "https://itunes.apple.com/us/tv-season/sid-the-science-kid-vol.2/id364440531"
+                        }
+                    ],
+                    "sponsors": [
+                        {
+                            "image_url": "https://cms-tc.pbskids.org/sponsors/first-5-california/First5-600x600.png",
+                            "link_url": "https://www.ccfc.ca.gov",
+                            "title": "First 5 California",
+                            "guid": "d87ac3bc-e146-4eb9-8f6d-2c30d8d6a4a7"
+                        },
+                        {
+                            "image_url": "https://cms-tc.pbskids.org/sponsors/cpb/CPBLogo-600x600.png",
+                            "link_url": "https://www.cpb.org/",
+                            "title": "Corporation for Public Broadcasting",
+                            "guid": "a52545a6-8a6b-4a4c-a532-613f21e0b459"
+                        },
+                        {
+                            "image_url": "https://cms-tc.pbskids.org/sponsors/rosehills-foundation/600x600-RoseHills_copy.png",
+                            "link_url": "https://www.rosehillsfoundation.org/",
+                            "title": "RoseHills Foundation",
+                            "guid": "9b9dac5c-1018-4c6c-a725-0aee0357908a"
+                        },
+                        {
+                            "image_url": "https://cms-tc.pbskids.org/sponsors/s-d-bechtel-jr-foundation/600x600-SDbechtel_copy.png",
+                            "link_url": "https://sdbjrfoundation.org/",
+                            "title": "S.D. Bechtel, Jr. Foundation",
+                            "guid": "847778cd-04dc-43aa-b6f4-cb4fe4f35c9d"
+                        },
+                        {
+                            "image_url": "https://cms-tc.pbskids.org/sponsors/arthur-vining-davis-foundation/600x600-arthurDavis_copy.png",
+                            "link_url": "https://www.avdf.org/",
+                            "title": "Arthur Vining Davis Foundation",
+                            "guid": "25b1f631-4658-4b85-8c77-c7840bf90ed6"
+                        },
+                        {
+                            "image_url": "https://cms-tc.pbskids.org/sponsors/metlife-foundation/600x600-metlife_copy.png",
+                            "link_url": "https://www.metlife.com/",
+                            "title": "Metlife Foundation",
+                            "guid": "ba0a5535-c8e8-4846-b36d-bdc442c906b8"
+                        },
+                        {
+                            "image_url": "https://cms-tc.pbskids.org/sponsors/john-w-carson-foundation/600x600-johnWCarsonFoundation_copy.png",
+                            "link_url": "https://www.johnnycarson.com/",
+                            "title": "John W. Carson Foundation",
+                            "guid": "98ba8952-a201-42ef-8c54-bcddb3c697a6"
+                        }
+                    ]
+                },
+                {
+                    "content_type": "program",
+                    "nola_root": "PLUM",
+                    "slug": "plum-landing",
+                    "title": "Plum Landing",
+                    "URI": "https://content.services.pbs.org/v2/kidspbsorg/programs/plum-landing/",
+                    "background_color": "#2bc8cf",
+                    "images": {
+                        "white_logo": null,
+                        "black_logo": null,
+                        "poster_2x3": "https://image.pbs.org/contentchannels/2640/s6JggN8sZbWeL2eJGx4DTw.jpg",
+                        "showcase": "https://image.pbs.org/contentchannels/2640/QiCDDp3s12xXMzm5u02OQg.jpg",
+                        "mezzanine_16x9": "https://image.pbs.org/contentchannels/2640/J7LUsAlnKGouVNrOYgYcQ.jpg",
+                        "logo": "https://image.pbs.org/pbs-kids/global/show-icons/circle-transparent/plum-landing-circle.png",
+                        "background": "https://image.pbs.org/pbs-kids/video-app/ott-show-backgrounds/1920x602_PlumLanding_AppleTV_Background.png",
+                        "banner": "https://image.pbs.org/contentchannels/2640/ioNSq0XM5B0xNsvsIJchkw.jpg",
+                        "stack": null,
+                        "color_logo": null
+                    },
+                    "images_resized": {
+                        "logo": [
+                            {
+                                "width": 88,
+                                "height": 88,
+                                "url": "https://cms-tc.pbskids.org/global/show-icons/circle-transparent/_88x88_crop_center-center_none/plum-landing-circle.png"
+                            }
+                        ],
+                        "logo_square": [
+                            {
+                                "width": 100,
+                                "height": 100,
+                                "url": "https://cms-tc.pbskids.org/global/show-icons/square-transparent/_100x100_crop_center-center_none/400x400_plumLanding.png"
+                            }
+                        ]
+                    },
+                    "websiteUrl": "https://pbskids.org/plumlanding/",
+                    "ages": "6-10",
+                    "google_analytics_id": "UA-47836444-2",
+                    "shopUrl": "https://shop.pbskids.org/",
+                    "parentsUrl": "",
+                    "videoStores": [],
+                    "sponsors": [
+                        {
+                            "image_url": "https://cms-tc.pbskids.org/sponsors/national-science-foundation/600x600-nsf.png",
+                            "link_url": "https://www.nsf.gov/",
+                            "title": "National Science Foundation",
+                            "guid": "78fc176e-23fc-4394-9353-746c9723345e"
+                        }
+                    ]
+                },
+                {
+                    "content_type": "program",
+                    "nola_root": "DESQ",
+                    "slug": "design-squad-nation",
+                    "title": "Design Squad",
+                    "URI": "https://content.services.pbs.org/v2/kidspbsorg/programs/design-squad-nation/",
+                    "background_color": "#3f3b76",
+                    "images": {
+                        "white_logo": null,
+                        "black_logo": null,
+                        "poster_2x3": "https://image.pbs.org/contentchannels/1948/uVAUzZJyyzz0CH1CGzNdfA.jpg",
+                        "showcase": "https://image.pbs.org/contentchannels/1948/9aZFcOSTbr07MtweaFkRdw.jpg",
+                        "mezzanine_16x9": "https://image.pbs.org/contentchannels/1948/CEUqsxY1ysW2EeJbyrClQ.jpg",
+                        "logo": "https://image.pbs.org/pbs-kids/global/show-icons/circle-transparent/200x200_designsquad.png",
+                        "background": "https://image.pbs.org/pbs-kids/video-app/ott-show-backgrounds/1920x602_DesignSquad_AppleTV_Background.png",
+                        "banner": "https://image.pbs.org/contentchannels/1948/0hiECAQ4e8lft1mGUJVoA.jpg",
+                        "stack": null,
+                        "color_logo": null
+                    },
+                    "images_resized": {
+                        "logo": [
+                            {
+                                "width": 88,
+                                "height": 88,
+                                "url": "https://cms-tc.pbskids.org/global/show-icons/circle-transparent/_88x88_crop_center-center_none/200x200_designsquad.png"
+                            }
+                        ],
+                        "logo_square": [
+                            {
+                                "width": 100,
+                                "height": 100,
+                                "url": "https://cms-tc.pbskids.org/global/show-icons/square-transparent/_100x100_crop_center-center_none/400x400_designSquad.png"
+                            }
+                        ]
+                    },
+                    "websiteUrl": "https://pbskids.org/designsquad/",
+                    "ages": "6-8",
+                    "google_analytics_id": "UA-4000083-2",
+                    "shopUrl": "",
+                    "parentsUrl": "",
+                    "videoStores": [],
+                    "sponsors": [
+                        {
+                            "image_url": "https://cms-tc.pbskids.org/sponsors/national-science-foundation/600x600-nsf.png",
+                            "link_url": "https://www.nsf.gov/",
+                            "title": "National Science Foundation",
+                            "guid": "78fc176e-23fc-4394-9353-746c9723345e"
+                        },
+                        {
+                            "image_url": "https://cms-tc.pbskids.org/sponsors/northrop-grumman/600x600-northrop_copy.png",
+                            "link_url": "https://www.northropgrumman.com/Pages/default.aspx",
+                            "title": "Northrop Grumman",
+                            "guid": "9caf8a28-8f0e-4454-aa63-68f713dc7944"
+                        },
+                        {
+                            "image_url": "https://cms-tc.pbskids.org/sponsors/s-d-bechtel-jr-foundation/600x600-SDbechtel_copy.png",
+                            "link_url": "https://sdbjrfoundation.org/",
+                            "title": "S.D. Bechtel, Jr. Foundation",
+                            "guid": "847778cd-04dc-43aa-b6f4-cb4fe4f35c9d"
+                        }
+                    ]
+                },
+                {
+                    "content_type": "program",
+                    "nola_root": "MSPE",
+                    "slug": "martha-speaks",
+                    "title": "Martha Speaks",
+                    "URI": "https://content.services.pbs.org/v2/kidspbsorg/programs/martha-speaks/",
+                    "background_color": "#da6637",
+                    "images": {
+                        "white_logo": null,
+                        "black_logo": null,
+                        "poster_2x3": "https://image.pbs.org/contentchannels/879/lM6fdmwQ92PGr7L7dJ9Q.jpg",
+                        "showcase": "https://image.pbs.org/contentchannels/879/pP7sObjEE4pBC9q0DkaTw.jpg",
+                        "mezzanine_16x9": "https://image.pbs.org/contentchannels/879/ZBck11DbcMQsWShEHVhNA.jpg",
+                        "logo": "https://image.pbs.org/pbs-kids/global/show-icons/circle-transparent/200x200_martha.png",
+                        "background": "https://image.pbs.org/pbs-kids/video-app/ott-show-backgrounds/1920x602_MarthaSpeaks_AppleTV_Background.png",
+                        "banner": "https://image.pbs.org/contentchannels/879/Lh3Pwk1UCkubDxgf2Z2UA.jpg",
+                        "stack": null,
+                        "color_logo": null
+                    },
+                    "images_resized": {
+                        "logo": [
+                            {
+                                "width": 88,
+                                "height": 88,
+                                "url": "https://cms-tc.pbskids.org/global/show-icons/circle-transparent/_88x88_crop_center-center_none/200x200_martha.png"
+                            }
+                        ],
+                        "logo_square": [
+                            {
+                                "width": 100,
+                                "height": 100,
+                                "url": "https://cms-tc.pbskids.org/global/show-icons/square-transparent/_100x100_crop_center-center_none/400x400_martha.png"
+                            }
+                        ]
+                    },
+                    "websiteUrl": "https://pbskids.org/martha/",
+                    "ages": "4-8",
+                    "google_analytics_id": "UA-5036549-2",
+                    "shopUrl": "https://shop.pbskids.org/arthur?utm_source=PBS_kids&utm_medium=brandsite&utm_content=ShopButton&utm_campaign=Arthur_091914",
+                    "parentsUrl": "",
+                    "videoStores": [
+                        {
+                            "store": "amazon-video",
+                            "url": "https://www.amazon.com/gp/product/B00E7NLVZY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00E7NLVZY&linkCode=as2&tag=p05a2-20&linkId=DNBEIGFBLEXWVXSA"
+                        },
+                        {
+                            "store": "itunes",
+                            "url": "https://itunes.apple.com/us/tv-season/arthur-season-16/id672257582?uo=4&at=11l3Sf&ct=ArthurVIDEOS"
+                        }
+                    ],
+                    "sponsors": []
+                },
+                {
+                    "content_type": "program",
+                    "nola_root": "NOAC",
+                    "slug": "oh-noah",
+                    "title": "Oh Noah!",
+                    "URI": "https://content.services.pbs.org/v2/kidspbsorg/programs/oh-noah/",
+                    "background_color": "#538876",
+                    "images": {
+                        "white_logo": null,
+                        "black_logo": null,
+                        "poster_2x3": "https://image.pbs.org/contentchannels/1941/m6AFs29ZCcX2VamOcdbZQ.jpg",
+                        "showcase": "https://image.pbs.org/contentchannels/1941/9v9xHq14H92Jfn0W3T0lQ.jpg",
+                        "mezzanine_16x9": "https://image.pbs.org/contentchannels/1941/S6IvFwZeqMVUngDFiwRyQw.jpg",
+                        "logo": "https://image.pbs.org/pbs-kids/global/show-icons/circle-transparent/200x200_noah.png",
+                        "background": "https://image.pbs.org/pbs-kids/video-app/ott-show-backgrounds/1920x602_OhNoah_AppleTV_Background.png",
+                        "banner": "https://image.pbs.org/contentchannels/1941/a0fccZUwuVEJ2OQGTjlyYw.jpg",
+                        "stack": null,
+                        "color_logo": null
+                    },
+                    "images_resized": {
+                        "logo": [
+                            {
+                                "width": 88,
+                                "height": 88,
+                                "url": "https://cms-tc.pbskids.org/global/show-icons/circle-transparent/_88x88_crop_center-center_none/200x200_noah.png"
+                            }
+                        ],
+                        "logo_square": [
+                            {
+                                "width": 100,
+                                "height": 100,
+                                "url": "https://cms-tc.pbskids.org/global/show-icons/square-transparent/_100x100_crop_center-center_none/400x400_ohNoah.png"
+                            }
+                        ]
+                    },
+                    "websiteUrl": "https://pbskids.org/noah/",
+                    "ages": "4-8",
+                    "google_analytics_id": "UA-21783296-2",
+                    "shopUrl": "",
+                    "parentsUrl": "https://www.pbs.org/parents/noah/",
+                    "videoStores": [],
+                    "sponsors": []
+                },
+                {
+                    "content_type": "program",
+                    "nola_root": "SGIR",
+                    "slug": "scigirls",
+                    "title": "SciGirls",
+                    "URI": "https://content.services.pbs.org/v2/kidspbsorg/programs/scigirls/",
+                    "background_color": "#b51f6a",
+                    "images": {
+                        "white_logo": null,
+                        "black_logo": null,
+                        "poster_2x3": "https://image.pbs.org/contentchannels/1956/72uguheNLsl6BHQPbw66aA.jpg",
+                        "showcase": "https://image.pbs.org/contentchannels/1956/J7wixPdUwAKQzIHTx0WKyg.jpg",
+                        "mezzanine_16x9": "https://image.pbs.org/contentchannels/1956/QQ93hzQfLtkesasd70WS9g.jpg",
+                        "logo": "https://image.pbs.org/pbs-kids/global/show-icons/circle-transparent/scigirls-circle.png",
+                        "background": "https://image.pbs.org/pbs-kids/video-app/ott-show-backgrounds/1920x602_SciGirls_AppleTV_Background.png",
+                        "banner": "https://image.pbs.org/contentchannels/1956/hdi6SZu6IuFNcuAkP8WniQ.jpg",
+                        "stack": null,
+                        "color_logo": null
+                    },
+                    "images_resized": {
+                        "logo": [
+                            {
+                                "width": 88,
+                                "height": 88,
+                                "url": "https://cms-tc.pbskids.org/global/show-icons/circle-transparent/_88x88_crop_center-center_none/scigirls-circle.png"
+                            }
+                        ],
+                        "logo_square": [
+                            {
+                                "width": 100,
+                                "height": 100,
+                                "url": "https://cms-tc.pbskids.org/global/show-icons/square-transparent/_100x100_crop_center-center_none/400x400_sciGirls.png"
+                            }
+                        ]
+                    },
+                    "websiteUrl": "https://pbskids.org/scigirls/",
+                    "ages": "6-8",
+                    "google_analytics_id": "UA-10617102-2",
+                    "shopUrl": "",
+                    "parentsUrl": "https://www.pbs.org/parents/scigirls/",
+                    "videoStores": [
+                        {
+                            "store": "itunes",
+                            "url": "https://itunes.apple.com/us/podcast/scigirls/id412308810?mt=2"
+                        }
+                    ],
+                    "sponsors": [
+                        {
+                            "image_url": "https://cms-tc.pbskids.org/sponsors/national-science-foundation/600x600-nsf.png",
+                            "link_url": "https://www.nsf.gov/",
+                            "title": "National Science Foundation",
+                            "guid": "78fc176e-23fc-4394-9353-746c9723345e"
+                        }
+                    ]
+                },
+                {
+                    "content_type": "program",
+                    "nola_root": "WOWO",
+                    "slug": "word-world",
+                    "title": "Word World",
+                    "URI": "https://content.services.pbs.org/v2/kidspbsorg/programs/word-world/",
+                    "background_color": "#7eba44",
+                    "images": {
+                        "white_logo": null,
+                        "black_logo": null,
+                        "poster_2x3": "https://image.pbs.org/contentchannels/1958/NNOl8ykHCsbzEi65KzDCg.jpg",
+                        "showcase": "https://image.pbs.org/contentchannels/1958/g35Df9b6tmZHblqVONe0Q.jpg",
+                        "mezzanine_16x9": "https://image.pbs.org/contentchannels/1958/u4Bsx8ioogLg8F1kWeVrg.jpg",
+                        "logo": "https://image.pbs.org/pbs-kids/global/show-icons/circle-transparent/200x200_wordworld.png",
+                        "background": "https://image.pbs.org/pbs-kids/video-app/ott-show-backgrounds/1920x602_WordWorld_AppleTV_Background.png",
+                        "banner": "https://image.pbs.org/contentchannels/1958/IFz8pQ0nfWDfzyE4N6F22w.jpg",
+                        "stack": null,
+                        "color_logo": null
+                    },
+                    "images_resized": {
+                        "logo": [
+                            {
+                                "width": 88,
+                                "height": 88,
+                                "url": "https://cms-tc.pbskids.org/global/show-icons/circle-transparent/_88x88_crop_center-center_none/200x200_wordworld.png"
+                            }
+                        ],
+                        "logo_square": [
+                            {
+                                "width": 100,
+                                "height": 100,
+                                "url": "https://cms-tc.pbskids.org/global/show-icons/square-transparent/_100x100_crop_center-center_none/400x400_wordWorld.png"
+                            }
+                        ]
+                    },
+                    "websiteUrl": "",
+                    "ages": "2-5",
+                    "google_analytics_id": "UA-4000339-2",
+                    "shopUrl": "https://shop.pbskids.org/wordworld?utm_source=PBS_kids&utm_medium=brandsite&utm_content=ShopButton&utm_campaign=wordworld_091914",
+                    "parentsUrl": "https://www.pbs.org/parents/wordworld/",
+                    "videoStores": [],
+                    "sponsors": []
+                },
+                {
+                    "content_type": "program",
+                    "nola_root": "MAYM",
+                    "slug": "maya-miguel",
+                    "title": "Maya & Miguel",
+                    "URI": "https://content.services.pbs.org/v2/kidspbsorg/programs/maya-miguel/",
+                    "background_color": "#af2773",
+                    "images": {
+                        "white_logo": null,
+                        "black_logo": null,
+                        "poster_2x3": "https://image.pbs.org/contentchannels/1954/SzcrIiWwY3DjJ9zkaHVdpg.jpg",
+                        "showcase": "https://image.pbs.org/contentchannels/1954/nlDG4DdwbNfl2x2XmQ57aw.jpg",
+                        "mezzanine_16x9": "https://image.pbs.org/contentchannels/1954/t7yQsrZoTwdo7xFNyVZQ.jpg",
+                        "logo": "https://image.pbs.org/pbs-kids/global/show-icons/circle-transparent/200x200_miaMiguel.png",
+                        "background": "https://image.pbs.org/pbs-kids/video-app/ott-show-backgrounds/1920x602_MayaMiguel_AppleTV_Background.png",
+                        "banner": "https://image.pbs.org/contentchannels/1954/uf9WLBiQ4LqiTQj6GiUw.jpg",
+                        "stack": null,
+                        "color_logo": null
+                    },
+                    "images_resized": {
+                        "logo": [
+                            {
+                                "width": 88,
+                                "height": 88,
+                                "url": "https://cms-tc.pbskids.org/global/show-icons/circle-transparent/_88x88_crop_center-center_none/200x200_miaMiguel.png"
+                            }
+                        ],
+                        "logo_square": [
+                            {
+                                "width": 100,
+                                "height": 100,
+                                "url": "https://cms-tc.pbskids.org/global/show-icons/square-transparent/_100x100_crop_center-center_none/400x400_mayaMiguel.png"
+                            }
+                        ]
+                    },
+                    "websiteUrl": "",
+                    "ages": "6-8",
+                    "google_analytics_id": "UA-3999619-2",
+                    "shopUrl": "",
+                    "parentsUrl": "",
+                    "videoStores": [],
+                    "sponsors": []
+                }
+            ]
+        },
+        "kids-livestream-promo": {
+            "title": "KIDS Livestream Promo Video",
+            "content": [
+                {
+                    "air_date": "2018-05-25T04:00:00-04:00",
+                    "content_type": "video",
+                    "description": "You're watching PBS KIDS!",
+                    "duration": 5,
+                    "encore_date": "2022-11-16T08:46:54-05:00",
+                    "expire_date": null,
+                    "id": "3012965971",
+                    "images": {
+                        "mezzanine": "https://image.pbs.org/video-assets/7iWAbpw-asset-kids-mezzanine1-16x9-o26us4t.jpg"
+                    },
+                    "program": {
+                        "content_type": "program",
+                        "slug": "pbs-kids",
+                        "title": "PBS KIDS",
+                        "URI": "https://content.services.pbs.org/v2/kidspbsorg/programs/pbs-kids/"
+                    },
+                    "short_description": null,
+                    "title": "You're Watching PBS KIDS (Toy Machine)",
+                    "URI": "https://urs.pbs.org/redirect/afa7c0af95c643bdb2a670be3f7f4612/",
+                    "is_special": false,
+                    "is_movie": false,
+                    "video_type": "Clip",
+                    "mp4": "https://urs.pbs.org/redirect/7b23b053590f4d14a5784685e71988c7/",
+                    "drm": {
+                        "hls_uri": null,
+                        "hls_mm_profile": null,
+                        "fairplay_certificate": null,
+                        "fairplay_license": null,
+                        "dash_uri": null,
+                        "dash_mm_profile": null,
+                        "widevine_license": null,
+                        "playready_license": null
+                    },
+                    "closedCaptions": [],
+                    "closedCaptionsMultiLanguage": []
+                }
+            ]
+        }
+    },
+    "order": [
+        "kids-promo",
+        "kids-show-spotlight",
+        "kids-programs-tier-1",
+        "kids-programs-tier-2",
+        "kids-programs-tier-3",
+        "kids-livestream-promo",
+        "kids-livestream"
+    ]
+}
